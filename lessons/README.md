@@ -1,6 +1,6 @@
 # Conteúdo
 
-* [Preparação do ambiente](lessons/01.%20Preparação%20do%20ambiente/README.md)
+* Preparação do ambiente
   * [Introdução](01.%20Prepara%C3%A7%C3%A3o%20do%20ambiente/00.%20Introdu%C3%A7%C3%A3o.md)
   * [Criando uma conta no GitHub](01.%20Prepara%C3%A7%C3%A3o%20do%20ambiente/02.%20Instalando%20o%20VSCode.md)
   * [Instalando o Visual Studio Code](01.%20Prepara%C3%A7%C3%A3o%20do%20ambiente/02.%20Instalando%20o%20VSCode.md)
