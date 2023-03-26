@@ -300,6 +300,9 @@ class DataGenerator:
 
         # Cria script para criar a tabela, sobrescrevendo caso já exista
         with open("create.sql", "w") as file:
+            # Insere comentário sobre o tipo de banco de dados
+            file.write("-- PostgreSQL\n")
+            # Insere comando para criar a tabela
             file.write("DROP TABLE IF EXISTS products;\n")
             file.write("CREATE TABLE products (\n")
             file.write("    id SERIAL PRIMARY KEY,\n")
@@ -317,6 +320,9 @@ class DataGenerator:
 
         # Salva os dados em um arquivo de script do PostgreSQL
         with open("data.sql", "w") as file:
+            # Insere comentário sobre o tipo de banco de dados
+            file.write("-- PostgreSQL\n")
+            # Insere comando para inserir os dados
             for product in products:
                 file.write(
                     f"INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price}, {product.discount}, {product.price_liquid}, {product.price_final}, {product.quantity}, {product.extended_warranty_price}, {product.extended_warranty_price_final});\n"
