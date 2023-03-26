@@ -205,7 +205,7 @@ class DataGenerator:
         worksheet.write(0, 10, "Quantidade de dias de garantia")
         worksheet.write(0, 11, "Quantidade de dias de garantia estendida")
         for i, product in enumerate(products):
-            worksheet.write(i + 1, 0, product.name)
+            worksheet.write(i + 1, 0, product.name)            
             worksheet.write(i + 1, 1, product.date)
             worksheet.write(i + 1, 2, product.date_final)
             worksheet.write(i + 1, 3, product.price)
@@ -217,6 +217,22 @@ class DataGenerator:
             worksheet.write(i + 1, 9, product.extended_warranty_price_final)
             worksheet.write(i + 1, 10, product.warranty_days)
             worksheet.write(i + 1, 11, product.extended_warranty_days)
+            
+        # Formata os campos de data
+        date_format = workbook.add_format({"num_format": "dd/mm/yyyy"})
+        worksheet.set_column(1, 2, 15, date_format)
+        
+        # Formata os campos de preço
+        price_format = workbook.add_format({"num_format": "#,##0.00"})
+        worksheet.set_column(3, 9, 15, price_format)
+        
+        # Formata os campos de quantidade
+        quantity_format = workbook.add_format({"num_format": "#,##0"})
+        worksheet.set_column(7, 7, 15, quantity_format)
+        
+        # Formata os campos de dias
+        days_format = workbook.add_format({"num_format": "#,##0"})
+        worksheet.set_column(10, 11, 15, days_format)
 
         workbook.close()
 
@@ -232,24 +248,26 @@ class DataGenerator:
         root = ET.Element("root")
         for product in products:
             product_xml = ET.SubElement(root, "product")
+            # Adiciona os dados do produto
             ET.SubElement(product_xml, "name").text = product.name
-            ET.SubElement(product_xml, "date").text = str(product.date)
-            ET.SubElement(product_xml, "date_final").text = str(product.date_final)
-            ET.SubElement(product_xml, "price").text = str(product.price)
-            ET.SubElement(product_xml, "discount").text = str(product.discount)
-            ET.SubElement(product_xml, "price_liquid").text = str(product.price_liquid)
-            ET.SubElement(product_xml, "price_final").text = str(product.price_final)
-            ET.SubElement(product_xml, "quantity").text = str(product.quantity)
-            ET.SubElement(
-                product_xml, "extended_warranty_price"
-            ).text = str(product.extended_warranty_price)
-            ET.SubElement(
-                product_xml, "extended_warranty_price_final"
-            ).text = str(product.extended_warranty_price_final)
-            ET.SubElement(product_xml, "warranty_days").text = str(product.warranty_days)
-            ET.SubElement(product_xml, "extended_warranty_days").text = str(
-                product.extended_warranty_days
-            )
+            # Adiciona a data de compra no formato ISO 8601
+            ET.SubElement(product_xml, "date").text = product.date.isoformat()
+            # Adiciona a data de final da garantia no formato ISO 8601
+            ET.SubElement(product_xml, "date_final").text = product.date_final.isoformat()
+            # Adiciona o preço do produto no formato de moeda
+            ET.SubElement(product_xml, "price").text = f"{product.price:.2f}"
+            # Adiciona o desconto do produto no formato de moeda
+            ET.SubElement(product_xml, "discount").text = f"{product.discount:.2f}"
+            # Adiciona o preço líquido do produto no formato de moeda
+            ET.SubElement(product_xml, "price_liquid").text = f"{product.price_liquid:.2f}"
+            # Adiciona o preço final do produto no formato de moeda
+            ET.SubElement(product_xml, "price_final").text = f"{product.price_final:.2f}"            
+            # Adiciona a quantidade do produto no formato de número inteiro
+            ET.SubElement(product_xml, "quantity").text = f"{product.quantity:.0f}"
+            ET.SubElement(product_xml, "extended_warranty_price").text = f"{product.extended_warranty_price:.2f}"
+            ET.SubElement(product_xml, "extended_warranty_price_final").text = f"{product.extended_warranty_price_final:.2f}"
+            ET.SubElement(product_xml, "warranty_days").text = f"{product.warranty_days:.0f}"
+            ET.SubElement(product_xml, "extended_warranty_days").text = f"{product.extended_warranty_days:.0f}"
 
         tree = ET.ElementTree(root)
         tree.write("data.xml")
@@ -267,7 +285,7 @@ class DataGenerator:
             )
             for product in products:
                 file.write(
-                    f"{product.name},{product.date},{product.date_final},{product.price},{product.discount},{product.price_liquid},{product.price_final},{product.quantity},{product.extended_warranty_price},{product.extended_warranty_price_final},{product.warranty_days},{product.extended_warranty_days}\n"
+                    f"{product.name},{product.date},{product.date_final},{product.price:.2f},{product.discount:.2f},{product.price_liquid:.2f},{product.price_final:.2f},{product.quantity:.0f},{product.extended_warranty_price:.2f},{product.extended_warranty_price_final:.2f},{product.warranty_days:.0f},{product.extended_warranty_days:.0f}\n"
                 )
 
     def generate_json_datafile(self, products: list):
@@ -281,7 +299,7 @@ class DataGenerator:
             file.write("[\n")
             for i, product in enumerate(products):
                 file.write(
-                    f'{{"Nome": "{product.name}", "Data de compra": "{product.date}", "Data de final da garantia": "{product.date_final}", "Preço": {product.price}, "Desconto": {product.discount}, "Preço líquido": {product.price_liquid}, "Preço final": {product.price_final}, "Quantidade": {product.quantity}, "Preço da garantia estendida": {product.extended_warranty_price}, "Preço final com garantia estendida": {product.extended_warranty_price_final}, "Quantidade de dias de garantia": {product.warranty_days}, "Quantidade de dias de garantia estendida": {product.extended_warranty_days}}}'
+                    f'{{"Nome": "{product.name}", "Data de compra": "{product.date}", "Data de final da garantia": "{product.date_final}", "Preço": {product.price:.2f}, "Desconto": {product.discount:.2f}, "Preço líquido": {product.price_liquid:.2f}, "Preço final": {product.price_final:.2f}, "Quantidade": {product.quantity:.0f}, "Preço da garantia estendida": {product.extended_warranty_price:.2f}, "Preço final com garantia estendida": {product.extended_warranty_price_final:.2f}, "Quantidade de dias de garantia": {product.warranty_days:.0f}, "Quantidade de dias de garantia estendida": {product.extended_warranty_days:.0f}}}'
                 )
                 if i < len(products) - 1:
                     file.write(",\n")
@@ -323,7 +341,7 @@ class DataGenerator:
             # Insere comando para inserir os dados
             for product in products:
                 file.write(
-                    f"INSERT INTO products (name, date_purchase, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price}, {product.discount}, {product.price_liquid}, {product.price_final}, {product.quantity}, {product.extended_warranty_price}, {product.extended_warranty_price_final}, {product.warranty_days}, {product.extended_warranty_days});\n"
+                    f"INSERT INTO products (name, date_purchase, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price:.2f}, {product.discount:.2f}, {product.price_liquid:.2f}, {product.price_final:.2f}, {product.quantity:.0f}, {product.extended_warranty_price:.2f}, {product.extended_warranty_price_final:.2f}, {product.warranty_days:.0f}, {product.extended_warranty_days:.0f});\n"
                 )
 
     def generate_markdown_table_datafile(self, products: list):
@@ -338,7 +356,7 @@ class DataGenerator:
             file.write("| ---- | -------------- | ------------------------- | ----- | -------- | ------------- | ----------- | ---------- | --------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |\n")
             for product in products:
                 file.write(
-                    f"| {product.name} | {product.date} | {product.date_final} | {product.price} | {product.discount} | {product.price_liquid} | {product.price_final} | {product.quantity} | {product.extended_warranty_price} | {product.extended_warranty_price_final} | {product.warranty_days} | {product.extended_warranty_days}\n"
+                    f"| {product.name} | {product.date} | {product.date_final} | {product.price:.2f} | {product.discount:.2f} | {product.price_liquid:.2f} | {product.price_final:.2f} | {product.quantity:.0f} | {product.extended_warranty_price:.2f} | {product.extended_warranty_price_final:.2f} | {product.warranty_days:.0f} | {product.extended_warranty_days:.0f}\n"
                 )
 
 # Inicialização
