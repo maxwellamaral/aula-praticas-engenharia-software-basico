@@ -307,7 +307,7 @@ class DataGenerator:
             file.write("CREATE TABLE products (\n")
             file.write("    id SERIAL PRIMARY KEY,\n")
             file.write("    name VARCHAR(255) NOT NULL,\n")
-            file.write("    date DATE NOT NULL,\n")
+            file.write("    date_purchase DATE NOT NULL,\n")
             file.write("    date_final DATE NOT NULL,\n")
             file.write("    price NUMERIC(10, 2) NOT NULL,\n")
             file.write("    discount NUMERIC(10, 2) NOT NULL,\n")
@@ -325,7 +325,7 @@ class DataGenerator:
             # Insere comando para inserir os dados
             for product in products:
                 file.write(
-                    f"INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price}, {product.discount}, {product.price_liquid}, {product.price_final}, {product.quantity}, {product.extended_warranty_price}, {product.extended_warranty_price_final});\n"
+                    f"INSERT INTO products (name, date_purchase, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price}, {product.discount}, {product.price_liquid}, {product.price_final}, {product.quantity}, {product.extended_warranty_price}, {product.extended_warranty_price_final});\n"
                 )
 
 
