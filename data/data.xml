@@ -1,1 +1,1202 @@
-<root><product><name>Tuna</name><date>2018-10-17 00:00:00</date><date_final>2022-10-16 00:00:00</date_final><price>596.6359174611566</price><discount>4.177919879766668</discount><price_liquid>592.4579975813899</price_liquid><price_final>4147.205983069729</price_final><quantity>7</quantity><extended_warranty_price>45.205536225222524</extended_warranty_price><extended_warranty_price_final>4192.411519294951</extended_warranty_price_final></product><product><name>Metal Cheese</name><date>2014-02-07 00:00:00</date><date_final>2016-08-05 00:00:00</date_final><price>8744.146325768492</price><discount>9.589224970036058</discount><price_liquid>8734.557100798456</price_liquid><price_final>26203.67130239537</price_final><quantity>3</quantity><extended_warranty_price>94.97079482277756</extended_warranty_price><extended_warranty_price_final>26298.642097218148</extended_warranty_price_final></product><product><name>Licensed Soap</name><date>2018-03-06 00:00:00</date><date_final>2021-06-03 00:00:00</date_final><price>5558.045983910594</price><discount>33.760610661647355</discount><price_liquid>5524.285373248947</price_liquid><price_final>55242.853732489464</price_final><quantity>10</quantity><extended_warranty_price>42.84313183240781</extended_warranty_price><extended_warranty_price_final>55285.69686432187</extended_warranty_price_final></product><product><name>Intelligent Sausages</name><date>2015-11-22 00:00:00</date><date_final>2019-05-20 00:00:00</date_final><price>4369.327981407276</price><discount>25.0744326152324</discount><price_liquid>4344.253548792043</price_liquid><price_final>43442.53548792043</price_final><quantity>10</quantity><extended_warranty_price>37.87700694519023</extended_warranty_price><extended_warranty_price_final>43480.412494865624</extended_warranty_price_final></product><product><name>Intelligent Mouse</name><date>2018-06-28 00:00:00</date><date_final>2020-06-27 00:00:00</date_final><price>9455.190070916751</price><discount>19.239908934406586</discount><price_liquid>9435.950161982344</price_liquid><price_final>47179.75080991172</price_final><quantity>5</quantity><extended_warranty_price>76.3233881238696</extended_warranty_price><extended_warranty_price_final>47256.07419803559</extended_warranty_price_final></product><product><name>Ball</name><date>2013-07-06 00:00:00</date><date_final>2017-01-01 00:00:00</date_final><price>7409.2971441131685</price><discount>26.757782692453453</discount><price_liquid>7382.539361420715</price_liquid><price_final>44295.236168524294</price_final><quantity>6</quantity><extended_warranty_price>70.60085313173003</extended_warranty_price><extended_warranty_price_final>44365.83702165602</extended_warranty_price_final></product><product><name>Tasty Plastic Bike</name><date>2016-04-26 00:00:00</date><date_final>2020-04-25 00:00:00</date_final><price>8692.614323286487</price><discount>24.252660224964757</discount><price_liquid>8668.361663061522</price_liquid><price_final>43341.80831530761</price_final><quantity>5</quantity><extended_warranty_price>75.73627292803154</extended_warranty_price><extended_warranty_price_final>43417.544588235636</extended_warranty_price_final></product><product><name>Sleek Fish</name><date>2019-05-20 00:00:00</date><date_final>2021-05-19 00:00:00</date_final><price>7260.250270462277</price><discount>47.55588078673977</discount><price_liquid>7212.6943896755365</price_liquid><price_final>72126.94389675537</price_final><quantity>10</quantity><extended_warranty_price>70.45670188331994</extended_warranty_price><extended_warranty_price_final>72197.40059863869</extended_warranty_price_final></product><product><name>Practical Sausages</name><date>2019-07-05 00:00:00</date><date_final>2021-12-31 00:00:00</date_final><price>9382.237371181922</price><discount>28.100521328189927</discount><price_liquid>9354.136849853732</price_liquid><price_final>65478.95794897612</price_final><quantity>7</quantity><extended_warranty_price>92.86368286200687</extended_warranty_price><extended_warranty_price_final>65571.82163183813</extended_warranty_price_final></product><product><name>Steel Gloves</name><date>2019-10-15 00:00:00</date><date_final>2024-10-13 00:00:00</date_final><price>7156.541575659696</price><discount>4.812388143844087</discount><price_liquid>7151.729187515852</price_liquid><price_final>28606.916750063407</price_final><quantity>4</quantity><extended_warranty_price>82.22376249259175</extended_warranty_price><extended_warranty_price_final>28689.140512555998</extended_warranty_price_final></product><product><name>Gently Used Hat</name><date>2012-08-26 00:00:00</date><date_final>2014-11-24 00:00:00</date_final><price>1387.436711935875</price><discount>7.619031726672304</discount><price_liquid>1379.8176802092028</price_liquid><price_final>6899.088401046014</price_final><quantity>5</quantity><extended_warranty_price>12.64579317204998</extended_warranty_price><extended_warranty_price_final>6911.734194218064</extended_warranty_price_final></product><product><name>Granite Car</name><date>2016-02-15 00:00:00</date><date_final>2017-08-13 00:00:00</date_final><price>8743.214384344692</price><discount>26.83882697056849</discount><price_liquid>8716.375557374124</price_liquid><price_final>61014.62890161887</price_final><quantity>7</quantity><extended_warranty_price>64.42110028712594</extended_warranty_price><extended_warranty_price_final>61079.05000190599</extended_warranty_price_final></product><product><name>Keyboard</name><date>2017-09-26 00:00:00</date><date_final>2021-09-25 00:00:00</date_final><price>7218.232024987457</price><discount>23.69977222855151</discount><price_liquid>7194.532252758906</price_liquid><price_final>35972.66126379453</price_final><quantity>5</quantity><extended_warranty_price>63.687172792322635</extended_warranty_price><extended_warranty_price_final>36036.34843658685</extended_warranty_price_final></product><product><name>Soap</name><date>2011-11-24 00:00:00</date><date_final>2015-11-23 00:00:00</date_final><price>6132.644925327401</price><discount>9.67294535613657</discount><price_liquid>6122.971979971265</price_liquid><price_final>12245.94395994253</price_final><quantity>2</quantity><extended_warranty_price>66.09431797934639</extended_warranty_price><extended_warranty_price_final>12312.038277921876</extended_warranty_price_final></product><product><name>Practical Car</name><date>2012-02-04 00:00:00</date><date_final>2016-05-03 00:00:00</date_final><price>5382.889269131047</price><discount>46.00489925769695</discount><price_liquid>5336.88436987335</price_liquid><price_final>53368.8436987335</price_final><quantity>10</quantity><extended_warranty_price>50.422262963369896</extended_warranty_price><extended_warranty_price_final>53419.265961696874</extended_warranty_price_final></product><product><name>Unbranded Fresh Soap</name><date>2016-09-23 00:00:00</date><date_final>2019-03-22 00:00:00</date_final><price>8551.199873249756</price><discount>24.559938052027768</discount><price_liquid>8526.639935197729</price_liquid><price_final>85266.39935197729</price_final><quantity>10</quantity><extended_warranty_price>99.38663327315489</extended_warranty_price><extended_warranty_price_final>85365.78598525045</extended_warranty_price_final></product><product><name>New Cheese</name><date>2016-04-17 00:00:00</date><date_final>2018-07-16 00:00:00</date_final><price>2159.523197247594</price><discount>36.77557308191987</discount><price_liquid>2122.747624165674</price_liquid><price_final>19104.728617491066</price_final><quantity>9</quantity><extended_warranty_price>89.20319239997647</extended_warranty_price><extended_warranty_price_final>19193.93180989104</extended_warranty_price_final></product><product><name>Small Salad</name><date>2010-06-26 00:00:00</date><date_final>2013-09-23 00:00:00</date_final><price>3300.903132599541</price><discount>26.63299157703448</discount><price_liquid>3274.270141022507</price_liquid><price_final>26194.161128180054</price_final><quantity>8</quantity><extended_warranty_price>65.55414828499019</extended_warranty_price><extended_warranty_price_final>26259.715276465045</extended_warranty_price_final></product><product><name>Ball</name><date>2010-04-28 00:00:00</date><date_final>2015-04-27 00:00:00</date_final><price>2156.590348452304</price><discount>36.80853330722333</discount><price_liquid>2119.781815145081</price_liquid><price_final>8479.127260580324</price_final><quantity>4</quantity><extended_warranty_price>16.79307658802517</extended_warranty_price><extended_warranty_price_final>8495.920337168349</extended_warranty_price_final></product><product><name>Small Metal Chips</name><date>2013-06-05 00:00:00</date><date_final>2017-12-01 00:00:00</date_final><price>4855.902032820706</price><discount>14.576456776770957</discount><price_liquid>4841.325576043935</price_liquid><price_final>43571.930184395416</price_final><quantity>9</quantity><extended_warranty_price>94.06807889870656</extended_warranty_price><extended_warranty_price_final>43665.998263294125</extended_warranty_price_final></product><product><name>Handcrafted Cotton Ball</name><date>2019-01-28 00:00:00</date><date_final>2021-07-26 00:00:00</date_final><price>4693.057652568989</price><discount>8.54243502962126</discount><price_liquid>4684.515217539368</price_liquid><price_final>46845.152175393676</price_final><quantity>10</quantity><extended_warranty_price>26.83942555913001</extended_warranty_price><extended_warranty_price_final>46871.9916009528</extended_warranty_price_final></product><product><name>Tuna</name><date>2011-05-22 00:00:00</date><date_final>2014-11-17 00:00:00</date_final><price>5686.894839192063</price><discount>16.575346931573655</discount><price_liquid>5670.31949226049</price_liquid><price_final>11340.63898452098</price_final><quantity>2</quantity><extended_warranty_price>25.631773817254917</extended_warranty_price><extended_warranty_price_final>11366.270758338234</extended_warranty_price_final></product><product><name>Frozen Soap</name><date>2013-06-25 00:00:00</date><date_final>2016-12-21 00:00:00</date_final><price>609.439769513765</price><discount>47.59327962500425</discount><price_liquid>561.8464898887607</price_liquid><price_final>3932.9254292213254</price_final><quantity>7</quantity><extended_warranty_price>72.40347635275924</extended_warranty_price><extended_warranty_price_final>4005.3289055740847</extended_warranty_price_final></product><product><name>Fantastic Steel Bacon</name><date>2014-11-27 00:00:00</date><date_final>2018-11-26 00:00:00</date_final><price>8041.989075138665</price><discount>39.39314226022325</discount><price_liquid>8002.595932878441</price_liquid><price_final>72023.36339590597</price_final><quantity>9</quantity><extended_warranty_price>68.08167957228548</extended_warranty_price><extended_warranty_price_final>72091.44507547824</extended_warranty_price_final></product><product><name>Steel Car</name><date>2016-07-27 00:00:00</date><date_final>2020-01-23 00:00:00</date_final><price>467.72545138977296</price><discount>13.204961632189482</discount><price_liquid>454.52048975758345</price_liquid><price_final>2727.122938545501</price_final><quantity>6</quantity><extended_warranty_price>22.488805350961236</extended_warranty_price><extended_warranty_price_final>2749.611743896462</extended_warranty_price_final></product><product><name>Table</name><date>2016-10-08 00:00:00</date><date_final>2021-04-05 00:00:00</date_final><price>2390.909945051041</price><discount>35.25793205977658</discount><price_liquid>2355.6520129912647</price_liquid><price_final>23556.520129912646</price_final><quantity>10</quantity><extended_warranty_price>25.562422156866585</extended_warranty_price><extended_warranty_price_final>23582.08255206951</extended_warranty_price_final></product><product><name>Concrete Pants</name><date>2018-06-19 00:00:00</date><date_final>2022-09-16 00:00:00</date_final><price>8030.59439748299</price><discount>44.30312440597148</discount><price_liquid>7986.291273077019</price_liquid><price_final>63890.33018461615</price_final><quantity>8</quantity><extended_warranty_price>56.309848114887785</extended_warranty_price><extended_warranty_price_final>63946.64003273103</extended_warranty_price_final></product><product><name>Sleek Fresh Fish</name><date>2018-06-16 00:00:00</date><date_final>2022-06-15 00:00:00</date_final><price>9924.007655755007</price><discount>42.283153001019066</discount><price_liquid>9881.724502753988</price_liquid><price_final>88935.5205247859</price_final><quantity>9</quantity><extended_warranty_price>28.59321240057972</extended_warranty_price><extended_warranty_price_final>88964.11373718648</extended_warranty_price_final></product><product><name>Practical Chips</name><date>2019-05-06 00:00:00</date><date_final>2021-11-01 00:00:00</date_final><price>3351.767719623405</price><discount>21.987117043878683</discount><price_liquid>3329.780602579526</price_liquid><price_final>23308.464218056684</price_final><quantity>7</quantity><extended_warranty_price>49.690703092374136</extended_warranty_price><extended_warranty_price_final>23358.15492114906</extended_warranty_price_final></product><product><name>Bike</name><date>2012-09-17 00:00:00</date><date_final>2014-03-16 00:00:00</date_final><price>132.90367288983657</price><discount>38.70575994372935</discount><price_liquid>94.19791294610722</price_liquid><price_final>94.19791294610722</price_final><quantity>1</quantity><extended_warranty_price>78.68871668888288</extended_warranty_price><extended_warranty_price_final>172.8866296349901</extended_warranty_price_final></product><product><name>Metal Computer</name><date>2015-04-20 00:00:00</date><date_final>2016-10-16 00:00:00</date_final><price>2595.4195848033582</price><discount>21.995520218777152</discount><price_liquid>2573.424064584581</price_liquid><price_final>15440.544387507487</price_final><quantity>6</quantity><extended_warranty_price>40.929476016455524</extended_warranty_price><extended_warranty_price_final>15481.473863523943</extended_warranty_price_final></product><product><name>Wooden Computer</name><date>2016-06-24 00:00:00</date><date_final>2017-12-21 00:00:00</date_final><price>350.97663681239885</price><discount>11.367990776312965</discount><price_liquid>339.6086460360859</price_liquid><price_final>679.2172920721717</price_final><quantity>2</quantity><extended_warranty_price>79.07683383783508</extended_warranty_price><extended_warranty_price_final>758.2941259100069</extended_warranty_price_final></product><product><name>Licensed Bike</name><date>2015-06-13 00:00:00</date><date_final>2018-09-10 00:00:00</date_final><price>7013.616976374969</price><discount>18.99577944017523</discount><price_liquid>6994.621196934794</price_liquid><price_final>41967.72718160877</price_final><quantity>6</quantity><extended_warranty_price>18.221439678194024</extended_warranty_price><extended_warranty_price_final>41985.94862128696</extended_warranty_price_final></product><product><name>Chair</name><date>2016-04-16 00:00:00</date><date_final>2020-10-12 00:00:00</date_final><price>1233.6951159261696</price><discount>4.086888523571963</discount><price_liquid>1229.6082274025975</price_liquid><price_final>9836.86581922078</price_final><quantity>8</quantity><extended_warranty_price>37.949917637081526</extended_warranty_price><extended_warranty_price_final>9874.815736857861</extended_warranty_price_final></product><product><name>Awesome Chicken</name><date>2013-09-25 00:00:00</date><date_final>2017-09-24 00:00:00</date_final><price>4699.678261817666</price><discount>17.24594721216092</discount><price_liquid>4682.432314605505</price_liquid><price_final>23412.161573027523</price_final><quantity>5</quantity><extended_warranty_price>17.003930679368207</extended_warranty_price><extended_warranty_price_final>23429.165503706892</extended_warranty_price_final></product><product><name>Rubber Ball</name><date>2018-08-25 00:00:00</date><date_final>2019-11-23 00:00:00</date_final><price>1194.4611018470264</price><discount>31.46338030460794</discount><price_liquid>1162.9977215424185</price_liquid><price_final>9303.981772339348</price_final><quantity>8</quantity><extended_warranty_price>10.354135336841694</extended_warranty_price><extended_warranty_price_final>9314.33590767619</extended_warranty_price_final></product><product><name>Rubber Table</name><date>2018-09-07 00:00:00</date><date_final>2021-12-05 00:00:00</date_final><price>510.522310958255</price><discount>8.232725153578436</discount><price_liquid>502.28958580467656</price_liquid><price_final>4018.3166864374125</price_final><quantity>8</quantity><extended_warranty_price>40.914214860315276</extended_warranty_price><extended_warranty_price_final>4059.230901297728</extended_warranty_price_final></product><product><name>Used Gloves</name><date>2019-09-25 00:00:00</date><date_final>2023-12-23 00:00:00</date_final><price>2253.38594656412</price><discount>21.811976571555054</discount><price_liquid>2231.573969992565</price_liquid><price_final>20084.165729933084</price_final><quantity>9</quantity><extended_warranty_price>91.73287053732535</extended_warranty_price><extended_warranty_price_final>20175.89860047041</extended_warranty_price_final></product><product><name>Cotton Cheese</name><date>2012-11-18 00:00:00</date><date_final>2015-02-16 00:00:00</date_final><price>8100.933588473442</price><discount>13.608539532747965</discount><price_liquid>8087.325048940694</price_liquid><price_final>40436.62524470347</price_final><quantity>5</quantity><extended_warranty_price>91.41866893857278</extended_warranty_price><extended_warranty_price_final>40528.04391364205</extended_warranty_price_final></product><product><name>Fantastic Frozen Car</name><date>2010-11-12 00:00:00</date><date_final>2015-11-11 00:00:00</date_final><price>1771.9662402667166</price><discount>13.059850589234767</discount><price_liquid>1758.906389677482</price_liquid><price_final>15830.157507097338</price_final><quantity>9</quantity><extended_warranty_price>95.93291004602276</extended_warranty_price><extended_warranty_price_final>15926.090417143361</extended_warranty_price_final></product><product><name>Shoes</name><date>2012-01-21 00:00:00</date><date_final>2014-04-20 00:00:00</date_final><price>4547.264874808614</price><discount>2.7900297570158825</discount><price_liquid>4544.474845051598</price_liquid><price_final>13633.424535154794</price_final><quantity>3</quantity><extended_warranty_price>55.46316640891012</extended_warranty_price><extended_warranty_price_final>13688.887701563704</extended_warranty_price_final></product><product><name>Awesome Tuna</name><date>2019-03-15 00:00:00</date><date_final>2023-06-12 00:00:00</date_final><price>2474.5097558070743</price><discount>12.107016914131558</discount><price_liquid>2462.4027388929426</price_liquid><price_final>4924.805477785885</price_final><quantity>2</quantity><extended_warranty_price>61.05884980415981</extended_warranty_price><extended_warranty_price_final>4985.864327590045</extended_warranty_price_final></product><product><name>Fresh Pizza</name><date>2019-02-05 00:00:00</date><date_final>2023-05-05 00:00:00</date_final><price>7000.994923438415</price><discount>21.099996496912</discount><price_liquid>6979.8949269415025</price_liquid><price_final>41879.369561649015</price_final><quantity>6</quantity><extended_warranty_price>74.02095008309827</extended_warranty_price><extended_warranty_price_final>41953.39051173211</extended_warranty_price_final></product><product><name>Fresh Mouse</name><date>2018-10-03 00:00:00</date><date_final>2021-12-31 00:00:00</date_final><price>4476.680447981682</price><discount>9.310922182644122</discount><price_liquid>4467.369525799038</price_liquid><price_final>26804.217154794227</price_final><quantity>6</quantity><extended_warranty_price>45.56298659198287</extended_warranty_price><extended_warranty_price_final>26849.78014138621</extended_warranty_price_final></product><product><name>Chair</name><date>2015-02-23 00:00:00</date><date_final>2018-05-23 00:00:00</date_final><price>2508.788015337926</price><discount>32.69344016803332</discount><price_liquid>2476.094575169893</price_liquid><price_final>19808.756601359142</price_final><quantity>8</quantity><extended_warranty_price>15.14973777042557</extended_warranty_price><extended_warranty_price_final>19823.906339129568</extended_warranty_price_final></product><product><name>Computer</name><date>2013-09-06 00:00:00</date><date_final>2015-03-05 00:00:00</date_final><price>9245.544617424734</price><discount>24.227197444677984</discount><price_liquid>9221.317419980056</price_liquid><price_final>92213.17419980056</price_final><quantity>10</quantity><extended_warranty_price>80.38838414113204</extended_warranty_price><extended_warranty_price_final>92293.56258394169</extended_warranty_price_final></product><product><name>Hat</name><date>2014-08-17 00:00:00</date><date_final>2018-08-16 00:00:00</date_final><price>4454.689217585161</price><discount>25.242520858158784</discount><price_liquid>4429.446696727002</price_liquid><price_final>44294.46696727002</price_final><quantity>10</quantity><extended_warranty_price>42.92116611623081</extended_warranty_price><extended_warranty_price_final>44337.38813338625</extended_warranty_price_final></product><product><name>Granite Pants</name><date>2019-01-17 00:00:00</date><date_final>2020-07-15 00:00:00</date_final><price>4671.904583776193</price><discount>20.22394100065107</discount><price_liquid>4651.680642775542</price_liquid><price_final>27910.08385665325</price_final><quantity>6</quantity><extended_warranty_price>12.278826519801207</extended_warranty_price><extended_warranty_price_final>27922.36268317305</extended_warranty_price_final></product><product><name>Pants</name><date>2016-02-09 00:00:00</date><date_final>2017-05-09 00:00:00</date_final><price>6123.852903298319</price><discount>14.580863063837162</discount><price_liquid>6109.272040234481</price_liquid><price_final>18327.816120703443</price_final><quantity>3</quantity><extended_warranty_price>13.740765020883714</extended_warranty_price><extended_warranty_price_final>18341.556885724327</extended_warranty_price_final></product><product><name>Salad</name><date>2011-01-11 00:00:00</date><date_final>2016-01-10 00:00:00</date_final><price>4422.577339751983</price><discount>20.677385672669203</discount><price_liquid>4401.899954079314</price_liquid><price_final>44018.99954079314</price_final><quantity>10</quantity><extended_warranty_price>71.18574689085547</extended_warranty_price><extended_warranty_price_final>44090.185287684</extended_warranty_price_final></product><product><name>Gently Used Gloves</name><date>2012-05-15 00:00:00</date><date_final>2015-11-11 00:00:00</date_final><price>5174.211554183321</price><discount>21.053934426099215</discount><price_liquid>5153.157619757221</price_liquid><price_final>5153.157619757221</price_final><quantity>1</quantity><extended_warranty_price>26.390784192388185</extended_warranty_price><extended_warranty_price_final>5179.54840394961</extended_warranty_price_final></product><product><name>Intelligent Granite Mouse</name><date>2010-11-28 00:00:00</date><date_final>2012-11-27 00:00:00</date_final><price>7554.028326361396</price><discount>33.88259241321917</discount><price_liquid>7520.145733948177</price_liquid><price_final>75201.45733948177</price_final><quantity>10</quantity><extended_warranty_price>77.20974363319442</extended_warranty_price><extended_warranty_price_final>75278.66708311497</extended_warranty_price_final></product><product><name>Gorgeous Wooden Table</name><date>2014-07-16 00:00:00</date><date_final>2016-10-13 00:00:00</date_final><price>9756.33558050206</price><discount>39.983793569299394</discount><price_liquid>9716.35178693276</price_liquid><price_final>97163.51786932761</price_final><quantity>10</quantity><extended_warranty_price>84.03358270926712</extended_warranty_price><extended_warranty_price_final>97247.55145203687</extended_warranty_price_final></product><product><name>Intelligent Table</name><date>2013-11-28 00:00:00</date><date_final>2015-11-28 00:00:00</date_final><price>457.5994871596204</price><discount>2.1532315547521383</discount><price_liquid>455.44625560486827</price_liquid><price_final>1821.785022419473</price_final><quantity>4</quantity><extended_warranty_price>33.54831626731335</extended_warranty_price><extended_warranty_price_final>1855.3333386867864</extended_warranty_price_final></product><product><name>Used Frozen Table</name><date>2018-01-15 00:00:00</date><date_final>2022-01-14 00:00:00</date_final><price>3231.5355264264163</price><discount>25.20049659646797</discount><price_liquid>3206.3350298299483</price_liquid><price_final>22444.34520880964</price_final><quantity>7</quantity><extended_warranty_price>35.23554288807925</extended_warranty_price><extended_warranty_price_final>22479.58075169772</extended_warranty_price_final></product><product><name>Generic Car</name><date>2018-08-27 00:00:00</date><date_final>2020-11-24 00:00:00</date_final><price>3613.345613103297</price><discount>48.752985857569605</discount><price_liquid>3564.5926272457277</price_liquid><price_final>28516.74101796582</price_final><quantity>8</quantity><extended_warranty_price>87.68674125774966</extended_warranty_price><extended_warranty_price_final>28604.42775922357</extended_warranty_price_final></product><product><name>Unbranded Rubber Fish</name><date>2017-10-12 00:00:00</date><date_final>2021-01-09 00:00:00</date_final><price>963.545019105249</price><discount>17.695623979200686</discount><price_liquid>945.8493951260483</price_liquid><price_final>5675.09637075629</price_final><quantity>6</quantity><extended_warranty_price>46.732231279695476</extended_warranty_price><extended_warranty_price_final>5721.828602035985</extended_warranty_price_final></product><product><name>Refined Frozen Soap</name><date>2015-03-22 00:00:00</date><date_final>2017-03-21 00:00:00</date_final><price>5621.738622672238</price><discount>40.61464656485721</discount><price_liquid>5581.123976107381</price_liquid><price_final>11162.247952214762</price_final><quantity>2</quantity><extended_warranty_price>59.52685869552884</extended_warranty_price><extended_warranty_price_final>11221.77481091029</extended_warranty_price_final></product><product><name>Pants</name><date>2017-01-04 00:00:00</date><date_final>2019-04-04 00:00:00</date_final><price>9098.111312088167</price><discount>45.79532799951318</discount><price_liquid>9052.315984088655</price_liquid><price_final>27156.947952265964</price_final><quantity>3</quantity><extended_warranty_price>76.44498996401695</extended_warranty_price><extended_warranty_price_final>27233.39294222998</extended_warranty_price_final></product><product><name>Metal Chips</name><date>2014-01-05 00:00:00</date><date_final>2015-07-04 00:00:00</date_final><price>5061.578556962231</price><discount>12.727933027437722</discount><price_liquid>5048.8506239347935</price_liquid><price_final>40390.80499147835</price_final><quantity>8</quantity><extended_warranty_price>35.23164045250813</extended_warranty_price><extended_warranty_price_final>40426.03663193085</extended_warranty_price_final></product><product><name>Metal Salad</name><date>2011-09-01 00:00:00</date><date_final>2015-02-27 00:00:00</date_final><price>2708.383531235447</price><discount>9.847849676542491</discount><price_liquid>2698.535681558905</price_liquid><price_final>21588.28545247124</price_final><quantity>8</quantity><extended_warranty_price>81.83662742798766</extended_warranty_price><extended_warranty_price_final>21670.122079899225</extended_warranty_price_final></product><product><name>Ergonomic Chicken</name><date>2013-11-13 00:00:00</date><date_final>2015-11-13 00:00:00</date_final><price>1488.482696725691</price><discount>3.1500583934161663</discount><price_liquid>1485.3326383322749</price_liquid><price_final>8911.99582999365</price_final><quantity>6</quantity><extended_warranty_price>21.131971784053267</extended_warranty_price><extended_warranty_price_final>8933.127801777702</extended_warranty_price_final></product><product><name>Towels</name><date>2017-04-21 00:00:00</date><date_final>2021-07-19 00:00:00</date_final><price>7010.226904051767</price><discount>7.7719376505947295</discount><price_liquid>7002.454966401172</price_liquid><price_final>21007.364899203516</price_final><quantity>3</quantity><extended_warranty_price>84.52519805829782</extended_warranty_price><extended_warranty_price_final>21091.890097261814</extended_warranty_price_final></product><product><name>New Plastic Chips</name><date>2018-01-11 00:00:00</date><date_final>2021-07-09 00:00:00</date_final><price>1618.8176999122588</price><discount>29.07201660615956</discount><price_liquid>1589.7456833060992</price_liquid><price_final>3179.4913666121984</price_final><quantity>2</quantity><extended_warranty_price>89.59629906527788</extended_warranty_price><extended_warranty_price_final>3269.0876656774763</extended_warranty_price_final></product><product><name>Pizza</name><date>2019-06-01 00:00:00</date><date_final>2020-08-29 00:00:00</date_final><price>4703.006055698771</price><discount>47.26884013826131</discount><price_liquid>4655.73721556051</price_liquid><price_final>13967.21164668153</price_final><quantity>3</quantity><extended_warranty_price>38.545068602594455</extended_warranty_price><extended_warranty_price_final>14005.756715284124</extended_warranty_price_final></product><product><name>Handcrafted Metal Fish</name><date>2013-11-12 00:00:00</date><date_final>2018-11-11 00:00:00</date_final><price>1571.4261447366614</price><discount>23.77199159743306</discount><price_liquid>1547.6541531392284</price_liquid><price_final>13928.887378253055</price_final><quantity>9</quantity><extended_warranty_price>35.517765256730705</extended_warranty_price><extended_warranty_price_final>13964.405143509786</extended_warranty_price_final></product><product><name>Steel Shoes</name><date>2012-10-21 00:00:00</date><date_final>2015-01-19 00:00:00</date_final><price>5595.072350527835</price><discount>49.103394596822945</discount><price_liquid>5545.968955931012</price_liquid><price_final>16637.906867793034</price_final><quantity>3</quantity><extended_warranty_price>86.82454745978258</extended_warranty_price><extended_warranty_price_final>16724.731415252816</extended_warranty_price_final></product><product><name>Incredible Concrete Tuna</name><date>2019-01-15 00:00:00</date><date_final>2022-07-13 00:00:00</date_final><price>9983.554227268429</price><discount>26.89934382431978</discount><price_liquid>9956.65488344411</price_liquid><price_final>69696.58418410877</price_final><quantity>7</quantity><extended_warranty_price>43.5135176115091</extended_warranty_price><extended_warranty_price_final>69740.09770172028</extended_warranty_price_final></product><product><name>Gloves</name><date>2012-02-07 00:00:00</date><date_final>2014-08-05 00:00:00</date_final><price>6367.050059156479</price><discount>43.8983190674017</discount><price_liquid>6323.151740089077</price_liquid><price_final>56908.36566080169</price_final><quantity>9</quantity><extended_warranty_price>12.855285842989506</extended_warranty_price><extended_warranty_price_final>56921.22094664468</extended_warranty_price_final></product><product><name>New Metal Cheese</name><date>2016-12-03 00:00:00</date><date_final>2020-12-02 00:00:00</date_final><price>6525.9598377834245</price><discount>44.51236210415367</discount><price_liquid>6481.447475679271</price_liquid><price_final>6481.447475679271</price_final><quantity>1</quantity><extended_warranty_price>10.432234110704306</extended_warranty_price><extended_warranty_price_final>6491.879709789975</extended_warranty_price_final></product><product><name>Handcrafted Soft Chips</name><date>2011-02-15 00:00:00</date><date_final>2013-05-15 00:00:00</date_final><price>3641.458710446281</price><discount>37.570093158113934</discount><price_liquid>3603.888617288167</price_liquid><price_final>7207.777234576334</price_final><quantity>2</quantity><extended_warranty_price>58.57759889606366</extended_warranty_price><extended_warranty_price_final>7266.354833472398</extended_warranty_price_final></product><product><name>Plastic Shirt</name><date>2011-11-04 00:00:00</date><date_final>2014-11-03 00:00:00</date_final><price>2558.578575967742</price><discount>41.596611605305924</discount><price_liquid>2516.981964362436</price_liquid><price_final>10067.927857449744</price_final><quantity>4</quantity><extended_warranty_price>95.20799311591406</extended_warranty_price><extended_warranty_price_final>10163.135850565657</extended_warranty_price_final></product><product><name>For repair Fish</name><date>2013-01-24 00:00:00</date><date_final>2016-07-22 00:00:00</date_final><price>4135.623327216284</price><discount>0.789849880777671</discount><price_liquid>4134.833477335506</price_liquid><price_final>12404.50043200652</price_final><quantity>3</quantity><extended_warranty_price>84.62573368820311</extended_warranty_price><extended_warranty_price_final>12489.126165694723</extended_warranty_price_final></product><product><name>Chips</name><date>2013-08-13 00:00:00</date><date_final>2016-11-10 00:00:00</date_final><price>1414.0555216054029</price><discount>38.1292168340463</discount><price_liquid>1375.9263047713566</price_liquid><price_final>13759.263047713566</price_final><quantity>10</quantity><extended_warranty_price>19.744878662499865</extended_warranty_price><extended_warranty_price_final>13779.007926376065</extended_warranty_price_final></product><product><name>Wooden Bike</name><date>2019-09-17 00:00:00</date><date_final>2020-12-15 00:00:00</date_final><price>3809.5406124817555</price><discount>40.938391034994154</discount><price_liquid>3768.602221446761</price_liquid><price_final>7537.204442893522</price_final><quantity>2</quantity><extended_warranty_price>25.640805763485897</extended_warranty_price><extended_warranty_price_final>7562.845248657009</extended_warranty_price_final></product><product><name>Tasty Frozen Tuna</name><date>2015-07-01 00:00:00</date><date_final>2017-12-27 00:00:00</date_final><price>1711.10135082298</price><discount>3.7928400738674095</discount><price_liquid>1707.3085107491127</price_liquid><price_final>17073.085107491126</price_final><quantity>10</quantity><extended_warranty_price>33.91333341633263</extended_warranty_price><extended_warranty_price_final>17106.99844090746</extended_warranty_price_final></product><product><name>Intelligent Wooden Bike</name><date>2012-05-19 00:00:00</date><date_final>2014-08-17 00:00:00</date_final><price>7095.954019130673</price><discount>30.674136482675767</discount><price_liquid>7065.2798826479975</price_liquid><price_final>49456.95917853598</price_final><quantity>7</quantity><extended_warranty_price>19.25626627270686</extended_warranty_price><extended_warranty_price_final>49476.21544480869</extended_warranty_price_final></product><product><name>Soft Shirt</name><date>2015-08-14 00:00:00</date><date_final>2019-08-13 00:00:00</date_final><price>994.1540808034295</price><discount>1.5590797636645837</discount><price_liquid>992.5950010397648</price_liquid><price_final>8933.355009357883</price_final><quantity>9</quantity><extended_warranty_price>74.49212038861317</extended_warranty_price><extended_warranty_price_final>9007.847129746497</extended_warranty_price_final></product><product><name>Frozen Sausages</name><date>2018-12-01 00:00:00</date><date_final>2023-02-28 00:00:00</date_final><price>5072.801693883833</price><discount>33.54179161352564</discount><price_liquid>5039.259902270307</price_liquid><price_final>25196.299511351535</price_final><quantity>5</quantity><extended_warranty_price>99.09301628572824</extended_warranty_price><extended_warranty_price_final>25295.392527637265</extended_warranty_price_final></product><product><name>Used Wooden Towels</name><date>2018-02-17 00:00:00</date><date_final>2022-05-17 00:00:00</date_final><price>2506.9133671621657</price><discount>28.329570364573165</discount><price_liquid>2478.5837967975926</price_liquid><price_final>24785.837967975927</price_final><quantity>10</quantity><extended_warranty_price>49.516236509641644</extended_warranty_price><extended_warranty_price_final>24835.354204485568</extended_warranty_price_final></product><product><name>Awesome Cotton Shirt</name><date>2017-05-21 00:00:00</date><date_final>2019-05-21 00:00:00</date_final><price>2135.374154855545</price><discount>24.692843622628686</discount><price_liquid>2110.6813112329164</price_liquid><price_final>6332.043933698749</price_final><quantity>3</quantity><extended_warranty_price>29.731352928643254</extended_warranty_price><extended_warranty_price_final>6361.775286627392</extended_warranty_price_final></product><product><name>Granite Car</name><date>2010-08-19 00:00:00</date><date_final>2013-02-14 00:00:00</date_final><price>8094.946593670545</price><discount>32.61254747895836</discount><price_liquid>8062.334046191586</price_liquid><price_final>56436.3383233411</price_final><quantity>7</quantity><extended_warranty_price>37.22909296798474</extended_warranty_price><extended_warranty_price_final>56473.56741630909</extended_warranty_price_final></product><product><name>Sleek Salad</name><date>2015-07-16 00:00:00</date><date_final>2016-10-13 00:00:00</date_final><price>6460.499496653755</price><discount>10.140797113945421</discount><price_liquid>6450.35869953981</price_liquid><price_final>32251.79349769905</price_final><quantity>5</quantity><extended_warranty_price>13.458507103811094</extended_warranty_price><extended_warranty_price_final>32265.252004802864</extended_warranty_price_final></product><product><name>Chicken</name><date>2011-10-09 00:00:00</date><date_final>2013-01-06 00:00:00</date_final><price>1241.782782950481</price><discount>7.372012202354227</discount><price_liquid>1234.4107707481269</price_liquid><price_final>8640.875395236888</price_final><quantity>7</quantity><extended_warranty_price>87.74590929569953</extended_warranty_price><extended_warranty_price_final>8728.621304532588</extended_warranty_price_final></product><product><name>Fresh Keyboard</name><date>2018-04-01 00:00:00</date><date_final>2022-09-27 00:00:00</date_final><price>6633.0672335989375</price><discount>19.23379741793091</discount><price_liquid>6613.833436181007</price_liquid><price_final>26455.333744724026</price_final><quantity>4</quantity><extended_warranty_price>81.76254212066624</extended_warranty_price><extended_warranty_price_final>26537.09628684469</extended_warranty_price_final></product><product><name>Ball</name><date>2011-01-28 00:00:00</date><date_final>2013-01-27 00:00:00</date_final><price>5386.348703271281</price><discount>33.76697177192366</discount><price_liquid>5352.581731499357</price_liquid><price_final>16057.745194498071</price_final><quantity>3</quantity><extended_warranty_price>17.80779686360409</extended_warranty_price><extended_warranty_price_final>16075.552991361676</extended_warranty_price_final></product><product><name>Hat</name><date>2012-10-05 00:00:00</date><date_final>2016-01-03 00:00:00</date_final><price>8731.3960938498</price><discount>23.44554677555548</discount><price_liquid>8707.950547074244</price_liquid><price_final>43539.75273537122</price_final><quantity>5</quantity><extended_warranty_price>27.940563955649214</extended_warranty_price><extended_warranty_price_final>43567.69329932687</extended_warranty_price_final></product><product><name>Soft Fish</name><date>2010-05-05 00:00:00</date><date_final>2014-05-04 00:00:00</date_final><price>981.3422889859272</price><discount>45.92333438483458</discount><price_liquid>935.4189546010927</price_liquid><price_final>5612.513727606556</price_final><quantity>6</quantity><extended_warranty_price>33.51414326033317</extended_warranty_price><extended_warranty_price_final>5646.027870866889</extended_warranty_price_final></product><product><name>Handmade Rubber Shirt</name><date>2017-06-12 00:00:00</date><date_final>2021-09-09 00:00:00</date_final><price>4819.9136736929195</price><discount>18.53707100683116</discount><price_liquid>4801.3766026860885</price_liquid><price_final>4801.3766026860885</price_final><quantity>1</quantity><extended_warranty_price>31.69865624551511</extended_warranty_price><extended_warranty_price_final>4833.0752589316035</extended_warranty_price_final></product><product><name>Concrete Shoes</name><date>2012-12-18 00:00:00</date><date_final>2017-03-17 00:00:00</date_final><price>5958.144551793768</price><discount>4.01777728635313</discount><price_liquid>5954.126774507415</price_liquid><price_final>29770.633872537073</price_final><quantity>5</quantity><extended_warranty_price>17.176988975760416</extended_warranty_price><extended_warranty_price_final>29787.810861512833</extended_warranty_price_final></product><product><name>Granite Ball</name><date>2013-01-17 00:00:00</date><date_final>2016-04-16 00:00:00</date_final><price>6621.559430759977</price><discount>44.59851734532297</discount><price_liquid>6576.960913414654</price_liquid><price_final>39461.76548048793</price_final><quantity>6</quantity><extended_warranty_price>99.26663655935529</extended_warranty_price><extended_warranty_price_final>39561.03211704728</extended_warranty_price_final></product><product><name>Awesome Plastic Mouse</name><date>2015-10-26 00:00:00</date><date_final>2020-10-24 00:00:00</date_final><price>8626.632568417235</price><discount>4.6011681100440684</discount><price_liquid>8622.03140030719</price_liquid><price_final>86220.31400307191</price_final><quantity>10</quantity><extended_warranty_price>81.97531280190204</extended_warranty_price><extended_warranty_price_final>86302.28931587382</extended_warranty_price_final></product><product><name>Handmade Fresh Towels</name><date>2012-11-20 00:00:00</date><date_final>2016-02-18 00:00:00</date_final><price>3326.0079473917267</price><discount>15.533584208417238</discount><price_liquid>3310.4743631833094</price_liquid><price_final>29794.269268649783</price_final><quantity>9</quantity><extended_warranty_price>56.23695831409856</extended_warranty_price><extended_warranty_price_final>29850.50622696388</extended_warranty_price_final></product><product><name>Cheese</name><date>2018-03-27 00:00:00</date><date_final>2021-09-22 00:00:00</date_final><price>4415.128957659707</price><discount>43.478690442974944</discount><price_liquid>4371.650267216733</price_liquid><price_final>21858.251336083664</price_final><quantity>5</quantity><extended_warranty_price>86.98809835986299</extended_warranty_price><extended_warranty_price_final>21945.239434443527</extended_warranty_price_final></product><product><name>Shoes</name><date>2010-06-23 00:00:00</date><date_final>2012-06-22 00:00:00</date_final><price>1895.999706474865</price><discount>15.971620887094373</discount><price_liquid>1880.0280855877706</price_liquid><price_final>9400.140427938853</price_final><quantity>5</quantity><extended_warranty_price>45.45280442027679</extended_warranty_price><extended_warranty_price_final>9445.59323235913</extended_warranty_price_final></product><product><name>Fresh Sausages</name><date>2015-11-18 00:00:00</date><date_final>2019-05-16 00:00:00</date_final><price>4064.4305411889536</price><discount>43.225848698774726</discount><price_liquid>4021.204692490179</price_liquid><price_final>4021.204692490179</price_final><quantity>1</quantity><extended_warranty_price>29.43169176962527</extended_warranty_price><extended_warranty_price_final>4050.636384259804</extended_warranty_price_final></product><product><name>Handmade Chicken</name><date>2015-08-22 00:00:00</date><date_final>2017-08-21 00:00:00</date_final><price>6549.282013113683</price><discount>4.6638871658959244</discount><price_liquid>6544.618125947787</price_liquid><price_final>32723.090629738937</price_final><quantity>5</quantity><extended_warranty_price>36.15940111499154</extended_warranty_price><extended_warranty_price_final>32759.250030853927</extended_warranty_price_final></product><product><name>Intelligent Wooden Chair</name><date>2013-03-26 00:00:00</date><date_final>2018-03-25 00:00:00</date_final><price>8705.049459867436</price><discount>9.989464762944877</discount><price_liquid>8695.059995104491</price_liquid><price_final>34780.239980417966</price_final><quantity>4</quantity><extended_warranty_price>31.337575376594014</extended_warranty_price><extended_warranty_price_final>34811.57755579456</extended_warranty_price_final></product><product><name>Keyboard</name><date>2010-10-01 00:00:00</date><date_final>2014-09-30 00:00:00</date_final><price>4712.672384906958</price><discount>27.62496800374212</discount><price_liquid>4685.047416903216</price_liquid><price_final>42165.426752128944</price_final><quantity>9</quantity><extended_warranty_price>74.64924908356477</extended_warranty_price><extended_warranty_price_final>42240.07600121251</extended_warranty_price_final></product><product><name>Gorgeous Wooden Chicken</name><date>2016-07-03 00:00:00</date><date_final>2019-12-30 00:00:00</date_final><price>5271.203579553305</price><discount>19.833398873490566</discount><price_liquid>5251.370180679814</price_liquid><price_final>47262.33162611833</price_final><quantity>9</quantity><extended_warranty_price>62.01608626638957</extended_warranty_price><extended_warranty_price_final>47324.34771238472</extended_warranty_price_final></product></root>
+<root>
+    <product>
+        <name>Handmade Granite Computer</name>
+        <date>2011-08-05 00:00:00</date>
+        <date_final>2015-01-31 00:00:00</date_final>
+        <price>9815.922814305855</price>
+        <discount>17.898640401907045</discount>
+        <price_liquid>9798.024173903948</price_liquid>
+        <price_final>29394.072521711845</price_final>
+        <quantity>3</quantity>
+        <extended_warranty_price>38.86669671533454</extended_warranty_price>
+        <extended_warranty_price_final>29432.93921842718</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Rustic Metal Pants</name>
+        <date>2012-03-01 00:00:00</date>
+        <date_final>2014-08-28 00:00:00</date_final>
+        <price>1992.395086708548</price>
+        <discount>46.02879064678242</discount>
+        <price_liquid>1946.3662960617655</price_liquid>
+        <price_final>9731.831480308827</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>75.59648596093736</extended_warranty_price>
+        <extended_warranty_price_final>9807.427966269765</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Unbranded Computer</name>
+        <date>2016-04-17 00:00:00</date>
+        <date_final>2017-07-16 00:00:00</date_final>
+        <price>9200.635025849417</price>
+        <discount>3.8226961251929756</discount>
+        <price_liquid>9196.812329724224</price_liquid>
+        <price_final>9196.812329724224</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>42.38852380767012</extended_warranty_price>
+        <extended_warranty_price_final>9239.200853531895</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Refined Keyboard</name>
+        <date>2016-08-15 00:00:00</date>
+        <date_final>2018-11-13 00:00:00</date_final>
+        <price>7162.393372015852</price>
+        <discount>18.84714796345958</discount>
+        <price_liquid>7143.546224052392</price_liquid>
+        <price_final>21430.638672157176</price_final>
+        <quantity>3</quantity>
+        <extended_warranty_price>45.54986717786643</extended_warranty_price>
+        <extended_warranty_price_final>21476.188539335042</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>For repair Shoes</name>
+        <date>2016-02-17 00:00:00</date>
+        <date_final>2019-08-15 00:00:00</date_final>
+        <price>4484.584524984269</price>
+        <discount>47.52326500547569</discount>
+        <price_liquid>4437.061259978793</price_liquid>
+        <price_final>4437.061259978793</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>30.828595003900197</extended_warranty_price>
+        <extended_warranty_price_final>4467.889854982693</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Tasty Chips</name>
+        <date>2014-01-09 00:00:00</date>
+        <date_final>2017-01-08 00:00:00</date_final>
+        <price>5496.054229355225</price>
+        <discount>15.20937180539677</discount>
+        <price_liquid>5480.844857549829</price_liquid>
+        <price_final>38365.914002848804</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>78.17238064702106</extended_warranty_price>
+        <extended_warranty_price_final>38444.08638349582</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Intelligent Fresh Gloves</name>
+        <date>2011-08-25 00:00:00</date>
+        <date_final>2016-08-23 00:00:00</date_final>
+        <price>7421.389566413635</price>
+        <discount>32.99335846123487</discount>
+        <price_liquid>7388.396207952401</price_liquid>
+        <price_final>22165.188623857204</price_final>
+        <quantity>3</quantity>
+        <extended_warranty_price>59.73764623480522</extended_warranty_price>
+        <extended_warranty_price_final>22224.926270092008</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Sleek Granite Computer</name>
+        <date>2015-11-02 00:00:00</date>
+        <date_final>2019-04-30 00:00:00</date_final>
+        <price>2356.5414777746773</price>
+        <discount>12.131704952771189</discount>
+        <price_liquid>2344.4097728219062</price_liquid>
+        <price_final>18755.27818257525</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>83.00361556957763</extended_warranty_price>
+        <extended_warranty_price_final>18838.281798144828</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Practical Shoes</name>
+        <date>2016-07-20 00:00:00</date>
+        <date_final>2019-07-20 00:00:00</date_final>
+        <price>7194.462450608428</price>
+        <discount>22.884869049359153</discount>
+        <price_liquid>7171.57758155907</price_liquid>
+        <price_final>50201.04307091349</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>69.36736276263561</extended_warranty_price>
+        <extended_warranty_price_final>50270.41043367612</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Handmade Shirt</name>
+        <date>2011-06-13 00:00:00</date>
+        <date_final>2012-09-10 00:00:00</date_final>
+        <price>129.14488801134775</price>
+        <discount>35.86286168068375</discount>
+        <price_liquid>93.282026330664</price_liquid>
+        <price_final>839.5382369759759</price_final>
+        <quantity>9</quantity>
+        <extended_warranty_price>24.007260928300624</extended_warranty_price>
+        <extended_warranty_price_final>863.5454979042765</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Towels</name>
+        <date>2016-03-18 00:00:00</date>
+        <date_final>2020-03-17 00:00:00</date_final>
+        <price>448.4120136964858</price>
+        <discount>47.58987775856127</discount>
+        <price_liquid>400.82213593792454</price_liquid>
+        <price_final>1603.2885437516982</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>82.61079529537592</extended_warranty_price>
+        <extended_warranty_price_final>1685.8993390470741</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Fresh Shoes</name>
+        <date>2014-06-17 00:00:00</date>
+        <date_final>2015-09-15 00:00:00</date_final>
+        <price>5253.760336742158</price>
+        <discount>49.56429299849285</discount>
+        <price_liquid>5204.1960437436655</price_liquid>
+        <price_final>46837.76439369299</price_final>
+        <quantity>9</quantity>
+        <extended_warranty_price>29.319127838357204</extended_warranty_price>
+        <extended_warranty_price_final>46867.08352153135</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Fresh Bacon</name>
+        <date>2015-08-13 00:00:00</date>
+        <date_final>2017-08-12 00:00:00</date_final>
+        <price>8198.981723857098</price>
+        <discount>40.321805258153645</discount>
+        <price_liquid>8158.659918598944</price_liquid>
+        <price_final>73427.9392673905</price_final>
+        <quantity>9</quantity>
+        <extended_warranty_price>43.590079907862545</extended_warranty_price>
+        <extended_warranty_price_final>73471.52934729836</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Intelligent Keyboard</name>
+        <date>2012-09-10 00:00:00</date>
+        <date_final>2015-03-09 00:00:00</date_final>
+        <price>2648.3959510594113</price>
+        <discount>13.68343293913058</discount>
+        <price_liquid>2634.712518120281</price_liquid>
+        <price_final>10538.850072481124</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>51.84880601197008</extended_warranty_price>
+        <extended_warranty_price_final>10590.698878493095</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Gorgeous Fresh Car</name>
+        <date>2019-07-07 00:00:00</date>
+        <date_final>2021-01-02 00:00:00</date_final>
+        <price>5183.629839340585</price>
+        <discount>33.796992164816395</discount>
+        <price_liquid>5149.832847175769</price_liquid>
+        <price_final>20599.331388703074</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>13.676085028399813</extended_warranty_price>
+        <extended_warranty_price_final>20613.007473731475</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Tasty Gloves</name>
+        <date>2018-06-23 00:00:00</date>
+        <date_final>2023-06-22 00:00:00</date_final>
+        <price>7575.946051872978</price>
+        <discount>12.223306973171056</discount>
+        <price_liquid>7563.722744899807</price_liquid>
+        <price_final>22691.16823469942</price_final>
+        <quantity>3</quantity>
+        <extended_warranty_price>29.865682499446553</extended_warranty_price>
+        <extended_warranty_price_final>22721.033917198867</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Used Plastic Towels</name>
+        <date>2012-12-21 00:00:00</date>
+        <date_final>2015-06-19 00:00:00</date_final>
+        <price>9430.391065065356</price>
+        <discount>26.891040337880224</discount>
+        <price_liquid>9403.500024727477</price_liquid>
+        <price_final>37614.000098909906</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>37.16366788790579</extended_warranty_price>
+        <extended_warranty_price_final>37651.163766797814</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Bacon</name>
+        <date>2011-09-09 00:00:00</date>
+        <date_final>2014-12-07 00:00:00</date_final>
+        <price>4920.465663127442</price>
+        <discount>24.57580157739205</discount>
+        <price_liquid>4895.88986155005</price_liquid>
+        <price_final>19583.5594462002</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>83.34136796791896</extended_warranty_price>
+        <extended_warranty_price_final>19666.90081416812</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Fantastic Soft Gloves</name>
+        <date>2011-07-01 00:00:00</date>
+        <date_final>2013-12-27 00:00:00</date_final>
+        <price>9148.075010973775</price>
+        <discount>18.058981320661882</discount>
+        <price_liquid>9130.016029653112</price_liquid>
+        <price_final>9130.016029653112</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>49.0706798782354</extended_warranty_price>
+        <extended_warranty_price_final>9179.086709531348</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Generic Frozen Towels</name>
+        <date>2016-01-24 00:00:00</date>
+        <date_final>2017-04-23 00:00:00</date_final>
+        <price>9275.841472727343</price>
+        <discount>35.15003566000678</discount>
+        <price_liquid>9240.691437067337</price_liquid>
+        <price_final>55444.14862240402</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>82.01952248624535</extended_warranty_price>
+        <extended_warranty_price_final>55526.16814489027</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Towels</name>
+        <date>2010-01-28 00:00:00</date>
+        <date_final>2012-07-26 00:00:00</date_final>
+        <price>5486.453663711412</price>
+        <discount>25.79280866041213</discount>
+        <price_liquid>5460.660855051</price_liquid>
+        <price_final>38224.625985357</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>12.984695752153915</extended_warranty_price>
+        <extended_warranty_price_final>38237.61068110915</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Generic Gloves</name>
+        <date>2011-06-06 00:00:00</date>
+        <date_final>2012-12-02 00:00:00</date_final>
+        <price>3385.0230198065187</price>
+        <discount>0.5014232695193632</discount>
+        <price_liquid>3384.5215965369994</price_liquid>
+        <price_final>13538.086386147997</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>14.845084582356165</extended_warranty_price>
+        <extended_warranty_price_final>13552.931470730353</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>New Rubber Fish</name>
+        <date>2019-06-16 00:00:00</date>
+        <date_final>2022-06-15 00:00:00</date_final>
+        <price>4736.989625856972</price>
+        <discount>16.669707794847227</discount>
+        <price_liquid>4720.319918062125</price_liquid>
+        <price_final>18881.2796722485</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>21.346979516404758</extended_warranty_price>
+        <extended_warranty_price_final>18902.626651764906</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cheese</name>
+        <date>2014-09-28 00:00:00</date>
+        <date_final>2018-09-27 00:00:00</date_final>
+        <price>5045.476801592574</price>
+        <discount>43.612363813752125</discount>
+        <price_liquid>5001.864437778821</price_liquid>
+        <price_final>35013.05106445175</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>91.29768996602131</extended_warranty_price>
+        <extended_warranty_price_final>35104.34875441777</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Wooden Tuna</name>
+        <date>2014-04-19 00:00:00</date>
+        <date_final>2016-10-15 00:00:00</date_final>
+        <price>1995.3897551942503</price>
+        <discount>4.353708598642375</discount>
+        <price_liquid>1991.0360465956078</price_liquid>
+        <price_final>19910.360465956077</price_final>
+        <quantity>10</quantity>
+        <extended_warranty_price>87.95429125957918</extended_warranty_price>
+        <extended_warranty_price_final>19998.314757215656</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Bike</name>
+        <date>2019-11-19 00:00:00</date>
+        <date_final>2022-02-16 00:00:00</date_final>
+        <price>6688.318927056163</price>
+        <discount>8.591140558856702</discount>
+        <price_liquid>6679.727786497307</price_liquid>
+        <price_final>53437.82229197845</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>85.08028449303873</extended_warranty_price>
+        <extended_warranty_price_final>53522.90257647149</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>New Fresh Keyboard</name>
+        <date>2015-08-11 00:00:00</date>
+        <date_final>2020-08-09 00:00:00</date_final>
+        <price>4915.498021657948</price>
+        <discount>36.33249667985582</discount>
+        <price_liquid>4879.165524978092</price_liquid>
+        <price_final>4879.165524978092</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>20.307159674451718</extended_warranty_price>
+        <extended_warranty_price_final>4899.472684652545</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Gorgeous Soft Mouse</name>
+        <date>2011-03-22 00:00:00</date>
+        <date_final>2015-09-17 00:00:00</date_final>
+        <price>3685.455599773746</price>
+        <discount>46.3467496898114</discount>
+        <price_liquid>3639.1088500839346</price_liquid>
+        <price_final>21834.65310050361</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>63.6887304452501</extended_warranty_price>
+        <extended_warranty_price_final>21898.34183094886</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Practical Soft Tuna</name>
+        <date>2010-07-04 00:00:00</date>
+        <date_final>2014-10-01 00:00:00</date_final>
+        <price>5932.076215794216</price>
+        <discount>49.94272760029655</discount>
+        <price_liquid>5882.13348819392</price_liquid>
+        <price_final>41174.93441735744</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>21.22042468421563</extended_warranty_price>
+        <extended_warranty_price_final>41196.15484204166</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Gorgeous Fresh Bike</name>
+        <date>2016-10-20 00:00:00</date>
+        <date_final>2020-04-17 00:00:00</date_final>
+        <price>6637.842053037413</price>
+        <discount>34.80449633395239</discount>
+        <price_liquid>6603.037556703461</price_liquid>
+        <price_final>39618.225340220764</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>24.131826021203764</extended_warranty_price>
+        <extended_warranty_price_final>39642.35716624197</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Awesome Plastic Bike</name>
+        <date>2016-04-21 00:00:00</date>
+        <date_final>2019-10-18 00:00:00</date_final>
+        <price>9779.955149544241</price>
+        <discount>35.94973017940825</discount>
+        <price_liquid>9744.005419364832</price_liquid>
+        <price_final>58464.03251618899</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>87.74921257294919</extended_warranty_price>
+        <extended_warranty_price_final>58551.78172876194</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Refined Ball</name>
+        <date>2014-11-21 00:00:00</date>
+        <date_final>2019-05-19 00:00:00</date_final>
+        <price>1999.3658624177867</price>
+        <discount>15.849695339655362</discount>
+        <price_liquid>1983.5161670781313</price_liquid>
+        <price_final>15868.12933662505</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>41.9995172355805</extended_warranty_price>
+        <extended_warranty_price_final>15910.128853860631</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Practical Ball</name>
+        <date>2010-09-18 00:00:00</date>
+        <date_final>2014-09-17 00:00:00</date_final>
+        <price>550.4724866909515</price>
+        <discount>10.973158026970886</discount>
+        <price_liquid>539.4993286639807</price_liquid>
+        <price_final>2697.4966433199033</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>38.03343752664341</extended_warranty_price>
+        <extended_warranty_price_final>2735.5300808465468</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Granite Mouse</name>
+        <date>2010-04-23 00:00:00</date>
+        <date_final>2014-04-22 00:00:00</date_final>
+        <price>2541.24161612856</price>
+        <discount>12.912943430681107</discount>
+        <price_liquid>2528.328672697879</price_liquid>
+        <price_final>10113.314690791516</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>10.917557767670882</extended_warranty_price>
+        <extended_warranty_price_final>10124.232248559187</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Fish</name>
+        <date>2018-04-10 00:00:00</date>
+        <date_final>2021-07-08 00:00:00</date_final>
+        <price>4292.654824769499</price>
+        <discount>48.19487084839017</discount>
+        <price_liquid>4244.4599539211085</price_liquid>
+        <price_final>38200.13958528997</price_final>
+        <quantity>9</quantity>
+        <extended_warranty_price>38.102593514369545</extended_warranty_price>
+        <extended_warranty_price_final>38238.24217880434</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Mouse</name>
+        <date>2019-07-06 00:00:00</date>
+        <date_final>2023-07-05 00:00:00</date_final>
+        <price>4187.088006271371</price>
+        <discount>4.073026529537188</discount>
+        <price_liquid>4183.014979741834</price_liquid>
+        <price_final>25098.089878451006</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>29.80683215365187</extended_warranty_price>
+        <extended_warranty_price_final>25127.89671060466</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Gently Used Soft Soap</name>
+        <date>2010-09-05 00:00:00</date>
+        <date_final>2012-03-03 00:00:00</date_final>
+        <price>2235.063578969436</price>
+        <discount>8.903895731893396</discount>
+        <price_liquid>2226.1596832375426</price_liquid>
+        <price_final>22261.596832375428</price_final>
+        <quantity>10</quantity>
+        <extended_warranty_price>70.83594514172643</extended_warranty_price>
+        <extended_warranty_price_final>22332.432777517155</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>New Tuna</name>
+        <date>2011-10-01 00:00:00</date>
+        <date_final>2014-09-30 00:00:00</date_final>
+        <price>3932.9500556353005</price>
+        <discount>37.057340710224615</discount>
+        <price_liquid>3895.892714925076</price_liquid>
+        <price_final>23375.356289550455</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>29.826096741772172</extended_warranty_price>
+        <extended_warranty_price_final>23405.18238629223</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Steel Hat</name>
+        <date>2014-01-04 00:00:00</date>
+        <date_final>2015-04-04 00:00:00</date_final>
+        <price>4147.980071104647</price>
+        <discount>43.818957032778066</discount>
+        <price_liquid>4104.16111407187</price_liquid>
+        <price_final>32833.28891257496</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>87.16797560464302</extended_warranty_price>
+        <extended_warranty_price_final>32920.4568881796</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Granite Shirt</name>
+        <date>2013-08-25 00:00:00</date>
+        <date_final>2018-02-20 00:00:00</date_final>
+        <price>3953.180783097141</price>
+        <discount>3.4276913145409873</discount>
+        <price_liquid>3949.7530917826</price_liquid>
+        <price_final>27648.2716424782</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>87.35509751804074</extended_warranty_price>
+        <extended_warranty_price_final>27735.62673999624</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Used Wooden Car</name>
+        <date>2019-08-27 00:00:00</date>
+        <date_final>2023-08-26 00:00:00</date_final>
+        <price>2325.02704317208</price>
+        <discount>9.503029207019381</discount>
+        <price_liquid>2315.5240139650605</price_liquid>
+        <price_final>4631.048027930121</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>90.19314172093438</extended_warranty_price>
+        <extended_warranty_price_final>4721.241169651055</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Concrete Hat</name>
+        <date>2011-11-04 00:00:00</date>
+        <date_final>2015-11-03 00:00:00</date_final>
+        <price>9711.3759486474</price>
+        <discount>1.6257615749179666</discount>
+        <price_liquid>9709.750187072481</price_liquid>
+        <price_final>77678.00149657985</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>23.239544252563828</extended_warranty_price>
+        <extended_warranty_price_final>77701.2410408324</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Shirt</name>
+        <date>2018-04-08 00:00:00</date>
+        <date_final>2020-07-06 00:00:00</date_final>
+        <price>4055.7904177076184</price>
+        <discount>27.23270474015592</discount>
+        <price_liquid>4028.5577129674625</price_liquid>
+        <price_final>40285.577129674624</price_final>
+        <quantity>10</quantity>
+        <extended_warranty_price>88.7766990878567</extended_warranty_price>
+        <extended_warranty_price_final>40374.35382876248</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Bike</name>
+        <date>2014-04-27 00:00:00</date>
+        <date_final>2016-04-26 00:00:00</date_final>
+        <price>8569.87535309982</price>
+        <discount>26.365149210425397</discount>
+        <price_liquid>8543.510203889395</price_liquid>
+        <price_final>59804.57142722576</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>76.56211420861041</extended_warranty_price>
+        <extended_warranty_price_final>59881.13354143437</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cheese</name>
+        <date>2015-09-16 00:00:00</date>
+        <date_final>2020-03-13 00:00:00</date_final>
+        <price>3600.7560510921485</price>
+        <discount>10.496388849165934</discount>
+        <price_liquid>3590.2596622429824</price_liquid>
+        <price_final>14361.03864897193</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>33.16429453506663</extended_warranty_price>
+        <extended_warranty_price_final>14394.202943506996</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Small Steel Shirt</name>
+        <date>2011-04-09 00:00:00</date>
+        <date_final>2016-04-07 00:00:00</date_final>
+        <price>4484.424192161159</price>
+        <discount>30.26363710145872</discount>
+        <price_liquid>4454.1605550597005</price_liquid>
+        <price_final>22270.802775298504</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>60.14473321749347</extended_warranty_price>
+        <extended_warranty_price_final>22330.947508515997</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Fantastic Fish</name>
+        <date>2017-03-21 00:00:00</date>
+        <date_final>2020-03-20 00:00:00</date_final>
+        <price>8685.082436034594</price>
+        <discount>19.855807176013307</discount>
+        <price_liquid>8665.226628858582</price_liquid>
+        <price_final>17330.453257717163</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>14.575422054345559</extended_warranty_price>
+        <extended_warranty_price_final>17345.02867977151</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Keyboard</name>
+        <date>2012-07-24 00:00:00</date>
+        <date_final>2014-01-20 00:00:00</date_final>
+        <price>7628.052818126504</price>
+        <discount>28.33139922345368</discount>
+        <price_liquid>7599.72141890305</price_liquid>
+        <price_final>7599.72141890305</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>57.92573564187231</extended_warranty_price>
+        <extended_warranty_price_final>7657.647154544922</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Awesome Frozen Hat</name>
+        <date>2011-10-07 00:00:00</date>
+        <date_final>2014-10-06 00:00:00</date_final>
+        <price>1741.3685917728112</price>
+        <discount>24.83320412886238</discount>
+        <price_liquid>1716.5353876439488</price_liquid>
+        <price_final>1716.5353876439488</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>55.3878622118005</extended_warranty_price>
+        <extended_warranty_price_final>1771.9232498557492</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Gorgeous Fish</name>
+        <date>2010-08-17 00:00:00</date>
+        <date_final>2012-02-13 00:00:00</date_final>
+        <price>5019.837402623229</price>
+        <discount>46.838067939962855</discount>
+        <price_liquid>4972.999334683266</price_liquid>
+        <price_final>19891.997338733065</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>11.679135274344453</extended_warranty_price>
+        <extended_warranty_price_final>19903.67647400741</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Small Steel Cheese</name>
+        <date>2019-03-15 00:00:00</date>
+        <date_final>2021-09-10 00:00:00</date_final>
+        <price>128.69272943231186</price>
+        <discount>12.399891170791905</discount>
+        <price_liquid>116.29283826151996</price_liquid>
+        <price_final>116.29283826151996</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>20.092337489745496</extended_warranty_price>
+        <extended_warranty_price_final>136.38517575126545</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Incredible Salad</name>
+        <date>2012-12-01 00:00:00</date>
+        <date_final>2016-11-30 00:00:00</date_final>
+        <price>5709.177723891162</price>
+        <discount>29.910197736388266</discount>
+        <price_liquid>5679.267526154774</price_liquid>
+        <price_final>45434.14020923819</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>52.59613763165236</extended_warranty_price>
+        <extended_warranty_price_final>45486.736346869846</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Metal Towels</name>
+        <date>2014-05-05 00:00:00</date>
+        <date_final>2015-11-01 00:00:00</date_final>
+        <price>540.7029979189504</price>
+        <discount>5.21461397086111</discount>
+        <price_liquid>535.4883839480892</price_liquid>
+        <price_final>3212.9303036885353</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>81.89459661035241</extended_warranty_price>
+        <extended_warranty_price_final>3294.8249002988878</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Rustic Concrete Car</name>
+        <date>2014-05-11 00:00:00</date>
+        <date_final>2018-05-10 00:00:00</date_final>
+        <price>5185.297864300189</price>
+        <discount>31.63566012231011</discount>
+        <price_liquid>5153.662204177879</price_liquid>
+        <price_final>30921.973225067275</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>53.49609860297001</extended_warranty_price>
+        <extended_warranty_price_final>30975.469323670244</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Hat</name>
+        <date>2011-02-22 00:00:00</date>
+        <date_final>2015-05-22 00:00:00</date_final>
+        <price>8942.899132615796</price>
+        <discount>49.88203828404871</discount>
+        <price_liquid>8893.017094331746</price_liquid>
+        <price_final>80037.15384898572</price_final>
+        <quantity>9</quantity>
+        <extended_warranty_price>82.96299128702924</extended_warranty_price>
+        <extended_warranty_price_final>80120.11684027275</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Metal Gloves</name>
+        <date>2018-10-05 00:00:00</date>
+        <date_final>2021-04-02 00:00:00</date_final>
+        <price>5718.3715265292285</price>
+        <discount>1.6473461404906575</discount>
+        <price_liquid>5716.724180388738</price_liquid>
+        <price_final>22866.896721554953</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>52.97075129880676</extended_warranty_price>
+        <extended_warranty_price_final>22919.86747285376</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Handmade Car</name>
+        <date>2018-02-24 00:00:00</date>
+        <date_final>2022-05-24 00:00:00</date_final>
+        <price>222.12751466614571</price>
+        <discount>34.00044975848407</discount>
+        <price_liquid>188.12706490766163</price_liquid>
+        <price_final>752.5082596306465</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>42.951606218680965</extended_warranty_price>
+        <extended_warranty_price_final>795.4598658493275</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Handmade Computer</name>
+        <date>2010-07-05 00:00:00</date>
+        <date_final>2013-07-04 00:00:00</date_final>
+        <price>4589.874148435706</price>
+        <discount>7.656199746821468</discount>
+        <price_liquid>4582.2179486888845</price_liquid>
+        <price_final>27493.307692133305</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>39.97357535080017</extended_warranty_price>
+        <extended_warranty_price_final>27533.281267484104</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Intelligent Cotton Chair</name>
+        <date>2015-10-06 00:00:00</date>
+        <date_final>2018-10-05 00:00:00</date_final>
+        <price>2489.9516952996887</price>
+        <discount>3.5200898880177522</discount>
+        <price_liquid>2486.431605411671</price_liquid>
+        <price_final>14918.589632470026</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>46.93355371533158</extended_warranty_price>
+        <extended_warranty_price_final>14965.523186185357</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Table</name>
+        <date>2010-03-07 00:00:00</date>
+        <date_final>2013-03-06 00:00:00</date_final>
+        <price>9541.78828919322</price>
+        <discount>19.019235556048073</discount>
+        <price_liquid>9522.769053637172</price_liquid>
+        <price_final>85704.92148273454</price_final>
+        <quantity>9</quantity>
+        <extended_warranty_price>40.373489723727005</extended_warranty_price>
+        <extended_warranty_price_final>85745.29497245827</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cheese</name>
+        <date>2016-12-15 00:00:00</date>
+        <date_final>2018-03-15 00:00:00</date_final>
+        <price>3337.642172167665</price>
+        <discount>38.44966662455834</discount>
+        <price_liquid>3299.192505543107</price_liquid>
+        <price_final>26393.540044344856</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>41.119099853883895</extended_warranty_price>
+        <extended_warranty_price_final>26434.65914419874</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Frozen Shirt</name>
+        <date>2012-10-19 00:00:00</date>
+        <date_final>2014-01-17 00:00:00</date_final>
+        <price>2643.489911129934</price>
+        <discount>29.5616542814055</discount>
+        <price_liquid>2613.9282568485287</price_liquid>
+        <price_final>5227.856513697057</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>59.01675803057648</extended_warranty_price>
+        <extended_warranty_price_final>5286.873271727633</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cotton Gloves</name>
+        <date>2018-08-22 00:00:00</date>
+        <date_final>2023-08-21 00:00:00</date_final>
+        <price>5075.847141326272</price>
+        <discount>19.13780400918541</discount>
+        <price_liquid>5056.7093373170865</price_liquid>
+        <price_final>10113.418674634173</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>69.70266858660766</extended_warranty_price>
+        <extended_warranty_price_final>10183.12134322078</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Rubber Computer</name>
+        <date>2013-01-12 00:00:00</date>
+        <date_final>2015-04-12 00:00:00</date_final>
+        <price>6993.9058969548505</price>
+        <discount>42.19946806936268</discount>
+        <price_liquid>6951.706428885488</price_liquid>
+        <price_final>55613.651431083905</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>85.07303622815661</extended_warranty_price>
+        <extended_warranty_price_final>55698.72446731206</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Fresh Chicken</name>
+        <date>2011-01-28 00:00:00</date>
+        <date_final>2014-07-26 00:00:00</date_final>
+        <price>1189.8398207443893</price>
+        <discount>13.269501742149775</discount>
+        <price_liquid>1176.5703190022396</price_liquid>
+        <price_final>4706.281276008958</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>16.249875566456428</extended_warranty_price>
+        <extended_warranty_price_final>4722.531151575415</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cheese</name>
+        <date>2014-03-16 00:00:00</date>
+        <date_final>2018-03-15 00:00:00</date_final>
+        <price>4815.486128846869</price>
+        <discount>7.414769847589903</discount>
+        <price_liquid>4808.071358999279</price_liquid>
+        <price_final>28848.428153995676</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>99.5477174016067</extended_warranty_price>
+        <extended_warranty_price_final>28947.97587139728</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Chips</name>
+        <date>2012-03-08 00:00:00</date>
+        <date_final>2015-03-08 00:00:00</date_final>
+        <price>8331.332777127416</price>
+        <discount>12.215394113751765</discount>
+        <price_liquid>8319.117383013665</price_liquid>
+        <price_final>49914.70429808199</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>29.391285878402726</extended_warranty_price>
+        <extended_warranty_price_final>49944.09558396039</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Gently Used Concrete Chair</name>
+        <date>2017-02-21 00:00:00</date>
+        <date_final>2020-02-21 00:00:00</date_final>
+        <price>9957.732969201905</price>
+        <discount>45.45909030418674</discount>
+        <price_liquid>9912.273878897719</price_liquid>
+        <price_final>79298.19103118175</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>15.868137032737032</extended_warranty_price>
+        <extended_warranty_price_final>79314.05916821449</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Fresh Fish</name>
+        <date>2016-06-02 00:00:00</date>
+        <date_final>2018-06-02 00:00:00</date_final>
+        <price>1833.6264783382962</price>
+        <discount>41.93334724623901</discount>
+        <price_liquid>1791.6931310920572</price_liquid>
+        <price_final>8958.465655460286</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>80.76387154321438</extended_warranty_price>
+        <extended_warranty_price_final>9039.229527003501</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Gorgeous Table</name>
+        <date>2013-09-02 00:00:00</date>
+        <date_final>2016-09-01 00:00:00</date_final>
+        <price>9749.182207113856</price>
+        <discount>42.4346255887647</discount>
+        <price_liquid>9706.747581525091</price_liquid>
+        <price_final>38826.990326100364</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>15.24782543423889</extended_warranty_price>
+        <extended_warranty_price_final>38842.238151534606</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Chips</name>
+        <date>2010-09-07 00:00:00</date>
+        <date_final>2015-03-05 00:00:00</date_final>
+        <price>1140.8027030553974</price>
+        <discount>44.45917724442169</discount>
+        <price_liquid>1096.3435258109757</price_liquid>
+        <price_final>8770.748206487806</price_final>
+        <quantity>8</quantity>
+        <extended_warranty_price>60.27545271182847</extended_warranty_price>
+        <extended_warranty_price_final>8831.023659199634</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Wooden Soap</name>
+        <date>2017-02-16 00:00:00</date>
+        <date_final>2021-02-15 00:00:00</date_final>
+        <price>1031.9065168968455</price>
+        <discount>8.086474327806602</discount>
+        <price_liquid>1023.8200425690388</price_liquid>
+        <price_final>10238.20042569039</price_final>
+        <quantity>10</quantity>
+        <extended_warranty_price>73.83290959774472</extended_warranty_price>
+        <extended_warranty_price_final>10312.033335288133</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Intelligent Metal Chair</name>
+        <date>2017-12-17 00:00:00</date>
+        <date_final>2020-03-16 00:00:00</date_final>
+        <price>4543.634648825729</price>
+        <discount>1.7093678113707267</discount>
+        <price_liquid>4541.925281014358</price_liquid>
+        <price_final>4541.925281014358</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>22.323265913201883</extended_warranty_price>
+        <extended_warranty_price_final>4564.24854692756</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Metal Hat</name>
+        <date>2012-10-15 00:00:00</date>
+        <date_final>2014-10-15 00:00:00</date_final>
+        <price>2708.4752901872475</price>
+        <discount>42.421216396202254</discount>
+        <price_liquid>2666.054073791045</price_liquid>
+        <price_final>5332.10814758209</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>78.46861742063322</extended_warranty_price>
+        <extended_warranty_price_final>5410.576765002724</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cotton Sausages</name>
+        <date>2010-10-04 00:00:00</date>
+        <date_final>2014-10-03 00:00:00</date_final>
+        <price>5951.296055765674</price>
+        <discount>46.365643569684366</discount>
+        <price_liquid>5904.93041219599</price_liquid>
+        <price_final>53144.37370976391</price_final>
+        <quantity>9</quantity>
+        <extended_warranty_price>75.06315551930679</extended_warranty_price>
+        <extended_warranty_price_final>53219.43686528322</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Awesome Mouse</name>
+        <date>2014-12-26 00:00:00</date>
+        <date_final>2017-03-25 00:00:00</date_final>
+        <price>2151.5617340567187</price>
+        <discount>15.595877664556369</discount>
+        <price_liquid>2135.9658563921626</price_liquid>
+        <price_final>8543.86342556865</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>92.567644783118</extended_warranty_price>
+        <extended_warranty_price_final>8636.431070351768</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Computer</name>
+        <date>2012-08-21 00:00:00</date>
+        <date_final>2015-08-21 00:00:00</date_final>
+        <price>6793.171224478809</price>
+        <discount>29.946077474747018</discount>
+        <price_liquid>6763.225147004062</price_liquid>
+        <price_final>27052.900588016248</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>59.69450382026968</extended_warranty_price>
+        <extended_warranty_price_final>27112.595091836516</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Unbranded Bacon</name>
+        <date>2017-02-08 00:00:00</date>
+        <date_final>2020-02-08 00:00:00</date_final>
+        <price>4089.398317617558</price>
+        <discount>9.015188036669986</discount>
+        <price_liquid>4080.383129580888</price_liquid>
+        <price_final>4080.383129580888</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>35.20648988638412</extended_warranty_price>
+        <extended_warranty_price_final>4115.589619467272</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cotton Mouse</name>
+        <date>2016-09-09 00:00:00</date>
+        <date_final>2021-03-07 00:00:00</date_final>
+        <price>450.0156138520798</price>
+        <discount>30.221637475594466</discount>
+        <price_liquid>419.7939763764853</price_liquid>
+        <price_final>1679.1759055059413</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>17.84815189520466</extended_warranty_price>
+        <extended_warranty_price_final>1697.024057401146</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cotton Bacon</name>
+        <date>2014-08-17 00:00:00</date>
+        <date_final>2019-08-16 00:00:00</date_final>
+        <price>2964.872878790449</price>
+        <discount>19.18518570589803</discount>
+        <price_liquid>2945.6876930845506</price_liquid>
+        <price_final>29456.876930845505</price_final>
+        <quantity>10</quantity>
+        <extended_warranty_price>15.905557088143562</extended_warranty_price>
+        <extended_warranty_price_final>29472.782487933648</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Concrete Soap</name>
+        <date>2011-05-07 00:00:00</date>
+        <date_final>2012-11-02 00:00:00</date_final>
+        <price>9142.12601726045</price>
+        <discount>22.06427344326843</discount>
+        <price_liquid>9120.061743817183</price_liquid>
+        <price_final>45600.308719085915</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>62.46140141192246</extended_warranty_price>
+        <extended_warranty_price_final>45662.77012049784</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Intelligent Plastic Salad</name>
+        <date>2014-10-02 00:00:00</date>
+        <date_final>2018-12-30 00:00:00</date_final>
+        <price>6448.941339094232</price>
+        <discount>36.04516969617918</discount>
+        <price_liquid>6412.896169398053</price_liquid>
+        <price_final>44890.27318578637</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>31.04352146166835</extended_warranty_price>
+        <extended_warranty_price_final>44921.316707248036</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Intelligent Wooden Table</name>
+        <date>2019-09-20 00:00:00</date>
+        <date_final>2022-03-18 00:00:00</date_final>
+        <price>6309.70277346189</price>
+        <discount>45.69479789422351</discount>
+        <price_liquid>6264.007975567666</price_liquid>
+        <price_final>18792.023926702997</price_final>
+        <quantity>3</quantity>
+        <extended_warranty_price>54.72294877041781</extended_warranty_price>
+        <extended_warranty_price_final>18846.746875473415</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Awesome Metal Mouse</name>
+        <date>2012-08-04 00:00:00</date>
+        <date_final>2016-01-31 00:00:00</date_final>
+        <price>3760.380521478564</price>
+        <discount>46.949882428747834</discount>
+        <price_liquid>3713.430639049816</price_liquid>
+        <price_final>22280.583834298894</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>14.767331440277687</extended_warranty_price>
+        <extended_warranty_price_final>22295.351165739172</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Keyboard</name>
+        <date>2013-10-10 00:00:00</date>
+        <date_final>2018-10-09 00:00:00</date_final>
+        <price>8994.611372934622</price>
+        <discount>31.088613065943317</discount>
+        <price_liquid>8963.522759868678</price_liquid>
+        <price_final>62744.65931908075</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>28.05367031941175</extended_warranty_price>
+        <extended_warranty_price_final>62772.712989400155</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Towels</name>
+        <date>2019-07-11 00:00:00</date>
+        <date_final>2022-01-06 00:00:00</date_final>
+        <price>2924.902983123105</price>
+        <discount>48.10831570293026</discount>
+        <price_liquid>2876.794667420175</price_liquid>
+        <price_final>17260.76800452105</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>29.72828136644316</extended_warranty_price>
+        <extended_warranty_price_final>17290.496285887493</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Unbranded Pizza</name>
+        <date>2018-10-06 00:00:00</date>
+        <date_final>2022-04-03 00:00:00</date_final>
+        <price>9938.265207931589</price>
+        <discount>39.33145125845147</discount>
+        <price_liquid>9898.933756673137</price_liquid>
+        <price_final>49494.66878336569</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>12.428459335814884</extended_warranty_price>
+        <extended_warranty_price_final>49507.09724270151</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Generic Sausages</name>
+        <date>2015-03-03 00:00:00</date>
+        <date_final>2020-03-01 00:00:00</date_final>
+        <price>3756.846043028991</price>
+        <discount>2.5770178885313797</discount>
+        <price_liquid>3754.2690251404597</price_liquid>
+        <price_final>15017.076100561839</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>88.97535020114594</extended_warranty_price>
+        <extended_warranty_price_final>15106.051450762985</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Chair</name>
+        <date>2012-02-26 00:00:00</date>
+        <date_final>2015-05-26 00:00:00</date_final>
+        <price>6623.1835260154985</price>
+        <discount>43.95400527366861</discount>
+        <price_liquid>6579.22952074183</price_liquid>
+        <price_final>39475.377124450984</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>65.11355017680287</extended_warranty_price>
+        <extended_warranty_price_final>39540.490674627785</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Refined Steel Towels</name>
+        <date>2015-09-12 00:00:00</date>
+        <date_final>2018-12-10 00:00:00</date_final>
+        <price>1657.3677966162527</price>
+        <discount>20.15074340863916</discount>
+        <price_liquid>1637.2170532076136</price_liquid>
+        <price_final>16372.170532076136</price_final>
+        <quantity>10</quantity>
+        <extended_warranty_price>31.50007440463064</extended_warranty_price>
+        <extended_warranty_price_final>16403.670606480766</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Small Hat</name>
+        <date>2010-10-26 00:00:00</date>
+        <date_final>2013-04-23 00:00:00</date_final>
+        <price>9855.06595882222</price>
+        <discount>49.36661814933743</discount>
+        <price_liquid>9805.699340672883</price_liquid>
+        <price_final>19611.398681345767</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>32.310623217838625</extended_warranty_price>
+        <extended_warranty_price_final>19643.709304563607</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Sausages</name>
+        <date>2018-04-14 00:00:00</date>
+        <date_final>2023-04-13 00:00:00</date_final>
+        <price>9037.011767400418</price>
+        <discount>27.82388790807081</discount>
+        <price_liquid>9009.187879492347</price_liquid>
+        <price_final>45045.939397461734</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>31.631526678950333</extended_warranty_price>
+        <extended_warranty_price_final>45077.57092414069</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Sleek Chips</name>
+        <date>2019-10-26 00:00:00</date>
+        <date_final>2022-01-23 00:00:00</date_final>
+        <price>4457.894739570206</price>
+        <discount>11.820799950975891</discount>
+        <price_liquid>4446.07393961923</price_liquid>
+        <price_final>31122.517577334613</price_final>
+        <quantity>7</quantity>
+        <extended_warranty_price>43.603049621547065</extended_warranty_price>
+        <extended_warranty_price_final>31166.12062695616</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Plastic Shoes</name>
+        <date>2016-05-19 00:00:00</date>
+        <date_final>2018-08-17 00:00:00</date_final>
+        <price>9583.632013244624</price>
+        <discount>45.01906182048403</discount>
+        <price_liquid>9538.61295142414</price_liquid>
+        <price_final>28615.83885427242</price_final>
+        <quantity>3</quantity>
+        <extended_warranty_price>52.41325344392946</extended_warranty_price>
+        <extended_warranty_price_final>28668.25210771635</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Ball</name>
+        <date>2015-07-06 00:00:00</date>
+        <date_final>2019-10-03 00:00:00</date_final>
+        <price>7287.104603160359</price>
+        <discount>46.124359814086425</discount>
+        <price_liquid>7240.980243346273</price_liquid>
+        <price_final>43445.88146007764</price_final>
+        <quantity>6</quantity>
+        <extended_warranty_price>88.28834358878208</extended_warranty_price>
+        <extended_warranty_price_final>43534.169803666424</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>New Soft Fish</name>
+        <date>2017-12-11 00:00:00</date>
+        <date_final>2022-12-10 00:00:00</date_final>
+        <price>5702.176331800016</price>
+        <discount>37.552229072771574</discount>
+        <price_liquid>5664.6241027272445</price_liquid>
+        <price_final>5664.6241027272445</price_final>
+        <quantity>1</quantity>
+        <extended_warranty_price>65.18487726589649</extended_warranty_price>
+        <extended_warranty_price_final>5729.808979993141</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Cotton Chicken</name>
+        <date>2018-01-16 00:00:00</date>
+        <date_final>2020-04-15 00:00:00</date_final>
+        <price>2301.249544498423</price>
+        <discount>47.51720582461583</discount>
+        <price_liquid>2253.732338673807</price_liquid>
+        <price_final>4507.464677347614</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>26.450363234456525</extended_warranty_price>
+        <extended_warranty_price_final>4533.915040582071</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Hat</name>
+        <date>2019-11-16 00:00:00</date>
+        <date_final>2022-11-15 00:00:00</date_final>
+        <price>5907.92880965099</price>
+        <discount>4.202316568133163</discount>
+        <price_liquid>5903.726493082857</price_liquid>
+        <price_final>11807.452986165714</price_final>
+        <quantity>2</quantity>
+        <extended_warranty_price>10.058559872519666</extended_warranty_price>
+        <extended_warranty_price_final>11817.511546038233</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Chips</name>
+        <date>2010-06-06 00:00:00</date>
+        <date_final>2012-12-02 00:00:00</date_final>
+        <price>8974.621798450755</price>
+        <discount>47.06539115437974</discount>
+        <price_liquid>8927.556407296375</price_liquid>
+        <price_final>35710.2256291855</price_final>
+        <quantity>4</quantity>
+        <extended_warranty_price>35.59261741869093</extended_warranty_price>
+        <extended_warranty_price_final>35745.81824660419</extended_warranty_price_final>
+    </product>
+    <product>
+        <name>Table</name>
+        <date>2019-09-22 00:00:00</date>
+        <date_final>2021-03-20 00:00:00</date_final>
+        <price>6508.213995352473</price>
+        <discount>28.10719704018339</discount>
+        <price_liquid>6480.106798312289</price_liquid>
+        <price_final>32400.533991561446</price_final>
+        <quantity>5</quantity>
+        <extended_warranty_price>11.481304697205447</extended_warranty_price>
+        <extended_warranty_price_final>32412.01529625865</extended_warranty_price_final>
+    </product>
+</root>

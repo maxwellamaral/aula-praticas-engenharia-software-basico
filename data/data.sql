@@ -1,100 +1,2401 @@
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Concrete Chair', '2011-01-25 00:00:00', '2013-01-24 00:00:00', 4680.484241805287, 0.9776917681038721, 4679.506550037183, 14038.51965011155, 3, 72.22838344802645, 14110.748033559576);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Tuna', '2012-09-15 00:00:00', '2017-03-13 00:00:00', 612.1885092867269, 10.242492797964747, 601.9460164887622, 601.9460164887622, 1, 47.593339023040535, 649.5393555118028);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Handcrafted Car', '2011-03-07 00:00:00', '2015-09-02 00:00:00', 1768.4350607914655, 36.98239574968406, 1731.4526650417815, 10388.71599025069, 6, 92.8761998175645, 10481.592190068255);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Handcrafted Metal Tuna', '2015-07-07 00:00:00', '2018-10-04 00:00:00', 7592.334400645716, 0.6088482170577669, 7591.725552428658, 75917.25552428658, 10, 68.1504128237011, 75985.40593711028);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Steel Fish', '2018-09-06 00:00:00', '2020-03-04 00:00:00', 7236.708837984576, 11.390987767859112, 7225.3178502167175, 57802.54280173374, 8, 79.51679328555042, 57882.05959501929);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Ball', '2013-03-01 00:00:00', '2017-08-27 00:00:00', 4657.377687811023, 42.9804428814941, 4614.397244929529, 27686.383469577173, 6, 89.19724113489315, 27775.580710712067);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Practical Cotton Cheese', '2014-12-22 00:00:00', '2018-12-21 00:00:00', 4650.589023388922, 46.79034764330284, 4603.798675745619, 27622.792054473714, 6, 10.31924752324803, 27633.11130199696);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('For repair Pants', '2019-05-10 00:00:00', '2023-08-07 00:00:00', 7705.0932778653405, 48.02182555175829, 7657.071452313582, 7657.071452313582, 1, 89.42239775940725, 7746.4938500729895);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Soft Cheese', '2018-01-11 00:00:00', '2020-01-11 00:00:00', 8823.912290469856, 45.84275443234227, 8778.069536037514, 26334.20860811254, 3, 90.57785098243973, 26424.786459094983);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Sleek Granite Sausages', '2013-12-25 00:00:00', '2018-06-22 00:00:00', 7640.0891974131455, 14.77310893541417, 7625.316088477732, 15250.632176955463, 2, 61.53785735454464, 15312.170034310007);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Mouse', '2019-11-03 00:00:00', '2022-05-01 00:00:00', 5736.606417843844, 12.006920522186388, 5724.5994973216575, 5724.5994973216575, 1, 89.08505641150543, 5813.684553733163);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Licensed Salad', '2011-05-11 00:00:00', '2013-08-08 00:00:00', 9739.249836887142, 6.061858830317712, 9733.187978056825, 87598.69180251143, 9, 84.68818704556048, 87683.37998955698);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Unbranded Frozen Fish', '2017-09-24 00:00:00', '2022-03-22 00:00:00', 5021.028999827198, 14.609912149042376, 5006.419087678156, 15019.257263034468, 3, 68.12015902107612, 15087.377422055544);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Awesome Cheese', '2019-05-07 00:00:00', '2021-05-06 00:00:00', 2083.5935385946846, 6.656482341207681, 2076.937056253477, 8307.748225013907, 4, 85.70019611461072, 8393.448421128518);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Generic Rubber Chips', '2017-11-13 00:00:00', '2020-02-11 00:00:00', 8492.053232788814, 21.55400175477748, 8470.499231034037, 76234.49307930632, 9, 44.47012131564289, 76278.96320062196);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Metal Chair', '2014-09-15 00:00:00', '2019-09-14 00:00:00', 7623.387411520912, 17.187703068113468, 7606.199708452798, 7606.199708452798, 1, 79.98286572721354, 7686.182574180012);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Chips', '2015-02-05 00:00:00', '2018-05-05 00:00:00', 7224.688671269791, 39.22436413624632, 7185.464307133544, 14370.928614267088, 2, 22.653694179719835, 14393.582308446808);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Pizza', '2014-04-05 00:00:00', '2018-04-04 00:00:00', 6922.961524170214, 8.045918535260139, 6914.915605634954, 62234.240450714584, 9, 87.02908166904554, 62321.26953238363);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Sleek Concrete Salad', '2013-10-06 00:00:00', '2018-10-05 00:00:00', 6693.460176032945, 40.5852545666897, 6652.874921466256, 33264.37460733128, 5, 99.78803384037823, 33364.16264117166);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Used Gloves', '2013-11-25 00:00:00', '2018-11-24 00:00:00', 2077.8129635421, 2.8515949122044413, 2074.961368629896, 6224.884105889687, 3, 87.84684817315895, 6312.730954062846);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Fantastic Steel Chair', '2010-12-18 00:00:00', '2014-12-17 00:00:00', 5643.869979848443, 26.161050964122868, 5617.70892888432, 56177.0892888432, 10, 14.237671463875241, 56191.32696030707);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Awesome Rubber Car', '2016-06-28 00:00:00', '2020-12-24 00:00:00', 3436.2793702041427, 21.684410811601595, 3414.594959392541, 10243.784878177623, 3, 58.18831857849579, 10301.973196756118);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Concrete Chips', '2018-07-05 00:00:00', '2020-07-04 00:00:00', 2929.533137976328, 36.73422736943152, 2892.7989106068962, 23142.39128485517, 8, 68.8312958443071, 23211.222580699476);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Used Soft Computer', '2015-09-22 00:00:00', '2018-12-20 00:00:00', 2057.9290059569057, 19.530399760996854, 2038.3986061959088, 16307.18884956727, 8, 35.252919665276735, 16342.441769232546);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Metal Chair', '2010-06-14 00:00:00', '2014-06-13 00:00:00', 3028.3501037035453, 23.487241450151547, 3004.862862253394, 6009.725724506788, 2, 73.46894157667171, 6083.194666083459);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Small Shirt', '2013-09-26 00:00:00', '2015-09-26 00:00:00', 3324.963439295653, 26.092287391391423, 3298.8711519042618, 16494.35575952131, 5, 75.89018628135041, 16570.24594580266);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('New Car', '2016-10-13 00:00:00', '2018-01-11 00:00:00', 3439.986995110932, 48.75548729046757, 3391.2315078204647, 23738.620554743255, 7, 96.6814013185237, 23835.30195606178);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Sleek Bacon', '2010-07-06 00:00:00', '2015-07-05 00:00:00', 7093.612727654296, 25.603744305819443, 7068.008983348476, 35340.04491674238, 5, 36.11427242716774, 35376.15918916955);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Plastic Hat', '2019-05-14 00:00:00', '2023-08-11 00:00:00', 5826.586829525108, 36.029006509407075, 5790.557823015702, 34743.34693809421, 6, 70.13177830813447, 34813.478716402344);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Soap', '2014-06-24 00:00:00', '2018-09-21 00:00:00', 642.1089831644243, 16.328912815309003, 625.7800703491154, 6257.800703491153, 10, 82.662478858316, 6340.463182349469);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Gently Used Keyboard', '2019-10-24 00:00:00', '2022-01-21 00:00:00', 9735.669196160501, 23.51482249541364, 9712.154373665087, 38848.61749466035, 4, 92.72911911809025, 38941.34661377844);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Small Concrete Ball', '2017-07-20 00:00:00', '2021-10-17 00:00:00', 2087.896544041208, 4.916843583299241, 2082.9797004579086, 10414.898502289543, 5, 25.62934079227245, 10440.527843081816);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Soft Shoes', '2014-05-10 00:00:00', '2016-05-09 00:00:00', 7358.080322094144, 33.138853342116434, 7324.9414687520275, 73249.41468752027, 10, 47.16507709377695, 73296.57976461404);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Shirt', '2018-06-07 00:00:00', '2022-06-06 00:00:00', 6351.107111425741, 25.76539227578326, 6325.3417191499575, 12650.683438299915, 2, 93.14203842291946, 12743.825476722834);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Hat', '2017-08-21 00:00:00', '2021-08-20 00:00:00', 483.3174323072149, 4.5693179823817704, 478.7481143248331, 2872.488685948999, 6, 41.54163313277731, 2914.0303190817763);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Sleek Computer', '2015-08-24 00:00:00', '2017-08-23 00:00:00', 659.9401166469428, 38.99874506752272, 620.9413715794201, 3725.6482294765206, 6, 68.3476554756675, 3793.995884952188);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Table', '2019-11-19 00:00:00', '2023-11-18 00:00:00', 1790.0747383239784, 35.98585102995065, 1754.0888872940277, 10524.533323764166, 6, 71.11602800600556, 10595.649351770171);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Rubber Fish', '2017-06-15 00:00:00', '2019-09-13 00:00:00', 9630.240253884756, 32.37676858367719, 9597.863485301079, 86380.7713677097, 9, 40.503570190347546, 86421.27493790006);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Generic Computer', '2010-02-05 00:00:00', '2014-08-03 00:00:00', 3904.976244863422, 15.734228143404183, 3889.2420167200175, 27224.694117040122, 7, 59.65331449257461, 27284.347431532697);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Wooden Fish', '2015-08-26 00:00:00', '2018-08-25 00:00:00', 7850.531832380069, 44.06784895618778, 7806.4639834238815, 7806.4639834238815, 1, 69.08691069012335, 7875.550894114005);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Generic Hat', '2017-11-16 00:00:00', '2019-05-15 00:00:00', 6997.814162711705, 28.58031735139005, 6969.233845360314, 13938.467690720629, 2, 82.7986618550307, 14021.26635257566);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Car', '2011-10-03 00:00:00', '2013-10-02 00:00:00', 7552.805434975808, 26.382836827370802, 7526.422598148437, 22579.26779444531, 3, 25.609170630816426, 22604.876965076128);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Sleek Shoes', '2013-07-10 00:00:00', '2018-07-09 00:00:00', 883.1524972726404, 45.795649553589215, 837.3568477190512, 7536.211629471461, 9, 70.25079534717793, 7606.462424818638);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Tasty Metal Computer', '2018-12-15 00:00:00', '2021-12-14 00:00:00', 8275.04343983925, 25.358553213248747, 8249.684886626, 49498.109319756004, 6, 69.38492846041773, 49567.49424821642);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Incredible Soft Soap', '2011-12-15 00:00:00', '2014-03-14 00:00:00', 6214.993722553588, 4.436300305803026, 6210.557422247784, 6210.557422247784, 1, 50.34170320611739, 6260.899125453901);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Shirt', '2018-04-03 00:00:00', '2022-09-29 00:00:00', 5645.720369125116, 25.02584328462582, 5620.69452584049, 16862.083577521473, 3, 86.27478095906324, 16948.358358480535);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Plastic Fish', '2018-10-13 00:00:00', '2020-10-12 00:00:00', 5872.127141689454, 34.69706803836182, 5837.430073651092, 46699.44058920874, 8, 70.82364080373674, 46770.26423001247);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Practical Wooden Bike', '2013-04-15 00:00:00', '2014-07-14 00:00:00', 4272.082979059269, 5.481032255769897, 4266.601946803499, 4266.601946803499, 1, 82.55946587422412, 4349.161412677723);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Cheese', '2011-04-15 00:00:00', '2012-10-11 00:00:00', 754.0135962713711, 49.485550789586824, 704.5280454817843, 704.5280454817843, 1, 90.07346205166984, 794.6015075334541);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Frozen Chips', '2013-04-25 00:00:00', '2017-07-23 00:00:00', 3891.8372023217144, 30.246304010894526, 3861.5908983108197, 15446.363593243279, 4, 48.76105069224533, 15495.124643935524);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Ergonomic Rubber Ball', '2011-06-12 00:00:00', '2016-06-10 00:00:00', 7687.986292334701, 47.36037594697669, 7640.625916387724, 61125.00733110179, 8, 62.17130429567457, 61187.17863539747);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Gorgeous Frozen Hat', '2018-12-28 00:00:00', '2022-06-25 00:00:00', 7216.147849610841, 25.812248453552478, 7190.335601157289, 35951.678005786445, 5, 67.07348784263417, 36018.75149362908);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Pizza', '2011-01-04 00:00:00', '2013-01-03 00:00:00', 651.1301372549883, 11.043830418861116, 640.0863068361272, 5760.776761525144, 9, 41.10968771615078, 5801.886449241295);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Steel Computer', '2017-05-14 00:00:00', '2021-05-13 00:00:00', 2770.4616909339093, 28.672734619045258, 2741.788956314864, 19192.52269420405, 7, 59.30430212507728, 19251.826996329128);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('New Soft Cheese', '2018-07-04 00:00:00', '2019-10-02 00:00:00', 494.9435282060756, 25.288874509963815, 469.6546536961118, 3757.2372295688942, 8, 13.776799765912564, 3771.0140293348068);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Bacon', '2013-03-19 00:00:00', '2015-06-17 00:00:00', 7539.499689842448, 30.104311487216677, 7509.3953783552315, 75093.95378355231, 10, 62.74260339314229, 75156.69638694545);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Rustic Metal Chicken', '2016-12-26 00:00:00', '2020-12-25 00:00:00', 2547.4722814783067, 7.359937543763739, 2540.112343934543, 15240.674063607257, 6, 43.6422405175369, 15284.316304124794);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Handcrafted Shoes', '2016-04-24 00:00:00', '2018-10-21 00:00:00', 8280.983579789932, 15.839459661417699, 8265.144120128514, 41325.72060064257, 5, 47.841191715038526, 41373.56179235761);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Incredible Fish', '2018-05-11 00:00:00', '2021-11-06 00:00:00', 1041.1860833057433, 28.94122753486746, 1012.2448557708758, 7085.713990396131, 7, 22.13976868702408, 7107.853759083155);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Small Hat', '2013-02-22 00:00:00', '2018-02-21 00:00:00', 1645.537169142968, 45.01922622427153, 1600.5179429186965, 16005.179429186965, 10, 23.675233466369885, 16028.854662653335);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Plastic Chicken', '2019-03-19 00:00:00', '2020-09-14 00:00:00', 315.53644875505626, 33.76297429111246, 281.7734744639438, 1408.867372319719, 5, 76.42730798783161, 1485.2946803075506);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Gently Used Cotton Fish', '2015-03-07 00:00:00', '2019-09-02 00:00:00', 1907.928606192424, 18.043389488697304, 1889.8852167037267, 17008.96695033354, 9, 59.18310542102166, 17068.150055754562);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Metal Tuna', '2011-10-19 00:00:00', '2015-10-18 00:00:00', 7399.355044033398, 7.099871377669481, 7392.2551726557285, 14784.510345311457, 2, 44.96534001725357, 14829.47568532871);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('For repair Steel Tuna', '2017-08-28 00:00:00', '2020-02-24 00:00:00', 4286.9555501175255, 25.33022764970032, 4261.625322467825, 12784.875967403474, 3, 40.30527083045301, 12825.181238233927);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Pizza', '2017-03-03 00:00:00', '2020-08-29 00:00:00', 5175.753024229128, 18.508070823192707, 5157.244953405935, 36100.71467384155, 7, 99.17882497725662, 36199.893498818805);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Tasty Chicken', '2011-06-28 00:00:00', '2015-12-24 00:00:00', 3651.6424473893903, 18.59700647330728, 3633.045440916083, 25431.318086412582, 7, 99.90097243756395, 25531.219058850147);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Steel Chips', '2018-10-25 00:00:00', '2023-10-24 00:00:00', 9267.534774673431, 6.993231680971862, 9260.54154299246, 37042.16617196984, 4, 43.682586708339514, 37085.84875867818);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Incredible Bacon', '2017-05-26 00:00:00', '2020-05-25 00:00:00', 5982.058111102298, 3.278008536468402, 5978.78010256583, 11957.56020513166, 2, 70.50328087683087, 12028.06348600849);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Salad', '2016-11-15 00:00:00', '2018-02-13 00:00:00', 576.46049973349, 39.16742647515915, 537.2930732583309, 4835.637659324978, 9, 24.953746272000775, 4860.591405596979);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Sleek Bacon', '2010-03-17 00:00:00', '2012-09-12 00:00:00', 7568.7912709753755, 40.059026442632764, 7528.732244532743, 22586.196733598226, 3, 43.90498582151298, 22630.101719419737);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Awesome Plastic Tuna', '2018-02-25 00:00:00', '2019-08-24 00:00:00', 3004.179474019858, 5.634065376431691, 2998.545408643426, 17991.272451860557, 6, 82.4030869267664, 18073.675538787324);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Licensed Bacon', '2018-05-01 00:00:00', '2023-04-30 00:00:00', 3758.07033460086, 42.02711748371992, 3716.04321711714, 29728.34573693712, 8, 88.58986220760193, 29816.935599144723);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Incredible Granite Pants', '2015-10-21 00:00:00', '2018-10-20 00:00:00', 8023.276289323203, 40.87438770216787, 7982.401901621035, 23947.205704863103, 3, 70.73576264892603, 24017.941467512028);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Mouse', '2015-10-23 00:00:00', '2018-01-20 00:00:00', 3282.61054921928, 20.397258456280472, 3262.213290763, 3262.213290763, 1, 66.39015668622244, 3328.603447449222);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Gently Used Concrete Tuna', '2011-08-24 00:00:00', '2014-11-21 00:00:00', 4443.543478788917, 43.28139707111019, 4400.262081717807, 17601.048326871227, 4, 74.60314928369837, 17675.651476154926);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Licensed Computer', '2016-11-05 00:00:00', '2021-02-02 00:00:00', 6005.193298494497, 20.663878170148298, 5984.529420324348, 41891.70594227044, 7, 46.32111514401397, 41938.02705741445);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Gloves', '2019-07-19 00:00:00', '2023-07-18 00:00:00', 283.85981748615114, 34.22929076926958, 249.63052671688155, 499.2610534337631, 2, 68.39377353747139, 567.6548269712345);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Table', '2014-03-09 00:00:00', '2017-09-04 00:00:00', 5058.32549335468, 18.215791342961126, 5040.109702011719, 50401.09702011719, 10, 91.56614078221837, 50492.66316089941);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Mouse', '2014-10-11 00:00:00', '2017-04-08 00:00:00', 6082.73218009525, 29.45392060674017, 6053.27825948851, 48426.22607590808, 8, 16.661245021346684, 48442.887320929425);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Soft Bike', '2013-05-08 00:00:00', '2015-11-04 00:00:00', 9601.829123121646, 28.379064787749485, 9573.450058333896, 47867.25029166948, 5, 24.964468110835785, 47892.21475978031);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Fresh Chicken', '2017-06-05 00:00:00', '2021-06-04 00:00:00', 7230.617573832729, 20.320252926362155, 7210.2973209063675, 36051.486604531834, 5, 30.94340230898439, 36082.43000684082);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Chicken', '2019-03-05 00:00:00', '2023-03-04 00:00:00', 6842.332621299738, 17.13788062544548, 6825.194740674293, 20475.58422202288, 3, 97.33813872237714, 20572.92236074526);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Shirt', '2019-05-06 00:00:00', '2022-08-03 00:00:00', 4172.312714044261, 9.294572741671436, 4163.018141302589, 29141.126989118125, 7, 89.51379169142923, 29230.640780809554);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Rubber Chicken', '2017-09-07 00:00:00', '2022-09-06 00:00:00', 8233.472874782125, 26.866029513875688, 8206.606845268248, 49239.64107160949, 6, 33.04370080402488, 49272.684772413515);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Cheese', '2016-08-15 00:00:00', '2020-11-12 00:00:00', 5091.547690032888, 7.932624670344845, 5083.615065362543, 30501.690392175256, 6, 13.821175152550046, 30515.511567327805);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Rustic Sausages', '2011-03-11 00:00:00', '2012-09-06 00:00:00', 2534.346952975649, 23.886503196716557, 2510.4604497789323, 25104.604497789325, 10, 66.31994084178699, 25170.92443863111);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Refined Car', '2016-12-12 00:00:00', '2021-03-11 00:00:00', 7807.411964993143, 26.14223777306502, 7781.269727220078, 70031.4275449807, 9, 88.48145512694234, 70119.90900010764);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Licensed Chips', '2019-10-20 00:00:00', '2022-01-17 00:00:00', 6959.240728134813, 1.8649030359569663, 6957.375825098857, 69573.75825098857, 10, 33.394058646015615, 69607.15230963458);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Frozen Bike', '2014-12-24 00:00:00', '2017-03-23 00:00:00', 6189.496607490125, 0.6678183946875471, 6188.828789095437, 61888.28789095437, 10, 46.21175466613407, 61934.499645620504);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Used Rubber Pants', '2017-07-19 00:00:00', '2019-10-17 00:00:00', 9606.642197463187, 2.306502622636941, 9604.335694840549, 86439.02125356495, 9, 11.346830924328419, 86450.36808448928);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Gently Used Frozen Towels', '2014-06-01 00:00:00', '2017-11-27 00:00:00', 6917.6921256603, 24.23029765920023, 6893.4618280011, 48254.2327960077, 7, 92.45037645514778, 48346.68317246285);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Rubber Chicken', '2017-10-27 00:00:00', '2019-01-25 00:00:00', 6022.954394499538, 24.945739645894466, 5998.008654853643, 11996.017309707286, 2, 60.54730380074219, 12056.564613508028);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Awesome Rubber Pizza', '2014-09-16 00:00:00', '2019-09-15 00:00:00', 711.5321853549801, 0.8992296381583942, 710.6329557168217, 1421.2659114336434, 2, 46.47638530633202, 1467.7422967399755);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Ergonomic Ball', '2016-02-03 00:00:00', '2020-02-02 00:00:00', 4871.004581868201, 14.723306481612514, 4856.281275386588, 9712.562550773177, 2, 32.264359722952406, 9744.82691049613);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Steel Cheese', '2018-05-27 00:00:00', '2022-11-22 00:00:00', 9724.560182288791, 30.195183317165487, 9694.364998971625, 96943.64998971624, 10, 48.9115624756049, 96992.56155219185);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Practical Metal Towels', '2016-04-28 00:00:00', '2018-10-25 00:00:00', 3215.3151837432006, 33.27969623844067, 3182.03548750476, 22274.24841253332, 7, 97.24017593184293, 22371.488588465163);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Fresh Soap', '2017-11-02 00:00:00', '2020-04-30 00:00:00', 7613.755496465778, 45.36040271665301, 7568.395093749125, 75683.95093749126, 10, 76.98259812020538, 75760.93353561146);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Ergonomic Bacon', '2012-08-12 00:00:00', '2016-11-09 00:00:00', 2512.410872248622, 49.917480961130536, 2462.4933912874917, 7387.480173862476, 3, 52.91236866041946, 7440.392542522895);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Incredible Soft Pants', '2012-08-06 00:00:00', '2015-11-04 00:00:00', 5837.2755306838235, 7.062420399938557, 5830.213110283885, 29151.065551419422, 5, 32.40351333233379, 29183.469064751756);
-INSERT INTO products (name, date, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('Gorgeous Ball', '2015-08-17 00:00:00', '2019-08-16 00:00:00', 1394.7486424534363, 49.55881291393229, 1345.189829539504, 6725.94914769752, 5, 69.46141716662324, 6795.410564864143);
+-- PostgreSQL
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Rustic Cheese',
+        '2013-05-25 00:00:00',
+        '2015-08-23 00:00:00',
+        8809.638813449163,
+        8.546305234465091,
+        8801.092508214697,
+        35204.37003285879,
+        4,
+        25.552184271728212,
+        35229.922217130515
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Metal Fish',
+        '2010-08-28 00:00:00',
+        '2013-02-23 00:00:00',
+        5337.851028909061,
+        41.18935160706123,
+        5296.661677302,
+        52966.616773019996,
+        10,
+        36.77052554922978,
+        53003.38729856923
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Rustic Metal Computer',
+        '2017-02-20 00:00:00',
+        '2020-02-20 00:00:00',
+        4512.080398930983,
+        41.02679568660128,
+        4471.053603244382,
+        44710.53603244382,
+        10,
+        67.17030526358039,
+        44777.7063377074
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Incredible Pizza',
+        '2014-01-02 00:00:00',
+        '2017-06-30 00:00:00',
+        8938.269234304222,
+        26.50174217292666,
+        8911.767492131296,
+        80205.90742918167,
+        9,
+        98.94866604793637,
+        80304.8560952296
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Awesome Frozen Pizza',
+        '2018-01-06 00:00:00',
+        '2022-04-05 00:00:00',
+        9675.268195078135,
+        12.08797572070207,
+        9663.180219357433,
+        96631.80219357433,
+        10,
+        55.27429461748601,
+        96687.07648819181
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Gloves',
+        '2013-03-03 00:00:00',
+        '2015-06-01 00:00:00',
+        6414.240403222314,
+        35.25681917014698,
+        6378.983584052167,
+        12757.967168104335,
+        2,
+        10.807726573903304,
+        12768.774894678238
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Chicken',
+        '2010-12-12 00:00:00',
+        '2013-12-11 00:00:00',
+        9257.646205527677,
+        33.37249989208717,
+        9224.273705635589,
+        18448.547411271178,
+        2,
+        95.38930430002885,
+        18543.936715571206
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Handmade Shirt',
+        '2010-03-28 00:00:00',
+        '2014-06-25 00:00:00',
+        5404.646250784893,
+        11.079017848762978,
+        5393.56723293613,
+        26967.836164680648,
+        5,
+        61.12237194395755,
+        27028.958536624606
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Frozen Computer',
+        '2010-01-16 00:00:00',
+        '2012-07-14 00:00:00',
+        3450.836244650845,
+        17.26358392774015,
+        3433.572660723105,
+        13734.29064289242,
+        4,
+        32.43730210958082,
+        13766.727945002001
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Concrete Gloves',
+        '2011-06-17 00:00:00',
+        '2013-12-13 00:00:00',
+        1715.5586399194428,
+        0.46411917710192374,
+        1715.0945207423408,
+        1715.0945207423408,
+        1,
+        78.77066746843253,
+        1793.8651882107733
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Handcrafted Hat',
+        '2019-02-25 00:00:00',
+        '2023-08-23 00:00:00',
+        8040.056279142508,
+        41.275413347810556,
+        7998.780865794698,
+        23996.342597384093,
+        3,
+        89.06477959736615,
+        24085.40737698146
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Refined Tuna',
+        '2019-04-03 00:00:00',
+        '2021-04-02 00:00:00',
+        9280.561236332442,
+        15.561982224590848,
+        9264.99925410785,
+        27794.99776232355,
+        3,
+        20.033261008218368,
+        27815.03102333177
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Practical Metal Chair',
+        '2012-07-10 00:00:00',
+        '2014-07-10 00:00:00',
+        4191.0003291717585,
+        41.84080281490473,
+        4149.159526356853,
+        29044.116684497974,
+        7,
+        15.531076154872661,
+        29059.647760652846
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Plastic Computer',
+        '2010-03-12 00:00:00',
+        '2012-03-11 00:00:00',
+        2301.543707748829,
+        14.420397059280155,
+        2287.123310689549,
+        6861.369932068646,
+        3,
+        42.935661768885055,
+        6904.305593837532
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Handmade Granite Shoes',
+        '2018-04-11 00:00:00',
+        '2020-07-09 00:00:00',
+        3840.200804130069,
+        16.872372390246788,
+        3823.3284317398225,
+        26763.29902217876,
+        7,
+        22.028285670727975,
+        26785.327307849486
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Awesome Granite Keyboard',
+        '2015-07-15 00:00:00',
+        '2017-10-12 00:00:00',
+        658.7206798652921,
+        35.12923768018389,
+        623.5914421851082,
+        623.5914421851082,
+        1,
+        77.71486816334068,
+        701.306310348449
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Handmade Steel Table',
+        '2013-05-07 00:00:00',
+        '2014-11-03 00:00:00',
+        802.0211402445586,
+        49.91614475005578,
+        752.1049954945029,
+        752.1049954945029,
+        1,
+        65.8056253725892,
+        817.9106208670921
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Pizza',
+        '2019-08-05 00:00:00',
+        '2022-11-02 00:00:00',
+        470.07359480609244,
+        48.92399140403333,
+        421.14960340205914,
+        2105.748017010296,
+        5,
+        54.513768344519534,
+        2160.2617853548154
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Ergonomic Metal Chips',
+        '2017-04-17 00:00:00',
+        '2019-04-17 00:00:00',
+        5870.057645990689,
+        38.12526903927935,
+        5831.932376951409,
+        52487.391392562684,
+        9,
+        45.929852632853006,
+        52533.32124519554
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Sleek Granite Computer',
+        '2016-01-24 00:00:00',
+        '2019-01-23 00:00:00',
+        7751.582454594287,
+        27.891386857677535,
+        7723.6910677366095,
+        30894.764270946438,
+        4,
+        75.6398660486475,
+        30970.404136995086
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Chicken',
+        '2014-04-07 00:00:00',
+        '2016-10-03 00:00:00',
+        3030.6171869677128,
+        36.567554493276965,
+        2994.049632474436,
+        2994.049632474436,
+        1,
+        18.29005298273682,
+        3012.3396854571724
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Steel Pants',
+        '2018-07-22 00:00:00',
+        '2020-10-19 00:00:00',
+        7837.522607498291,
+        36.12526874021006,
+        7801.397338758081,
+        23404.192016274243,
+        3,
+        87.19009879903697,
+        23491.38211507328
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Generic Cheese',
+        '2019-02-05 00:00:00',
+        '2021-05-05 00:00:00',
+        1754.6711097627724,
+        37.486740981527106,
+        1717.1843687812452,
+        13737.474950249962,
+        8,
+        83.59818534441536,
+        13821.073135594377
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Granite Towels',
+        '2018-12-24 00:00:00',
+        '2021-06-21 00:00:00',
+        9831.293565504686,
+        21.37040590190289,
+        9809.923159602782,
+        19619.846319205564,
+        2,
+        70.97994633643374,
+        19690.826265541997
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Bike',
+        '2019-02-25 00:00:00',
+        '2020-08-23 00:00:00',
+        5005.689914762911,
+        35.42042862166474,
+        4970.2694861412465,
+        29821.61691684748,
+        6,
+        71.79392915633906,
+        29893.41084600382
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Mouse',
+        '2017-10-18 00:00:00',
+        '2021-01-15 00:00:00',
+        2067.5238680577613,
+        46.246163933675795,
+        2021.2777041240856,
+        18191.49933711677,
+        9,
+        48.36758577511714,
+        18239.866922891888
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Bike',
+        '2011-10-04 00:00:00',
+        '2015-04-01 00:00:00',
+        756.0339266341535,
+        9.73144888882413,
+        746.3024777453294,
+        3731.512388726647,
+        5,
+        36.81495014924961,
+        3768.327338875896
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Keyboard',
+        '2010-11-02 00:00:00',
+        '2012-04-30 00:00:00',
+        9151.656072618905,
+        40.835285491697654,
+        9110.820787127208,
+        54664.924722763244,
+        6,
+        91.06904240712323,
+        54755.993765170366
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Table',
+        '2018-07-12 00:00:00',
+        '2021-07-11 00:00:00',
+        4545.737005983953,
+        15.374066162122151,
+        4530.362939821831,
+        31712.540578752814,
+        7,
+        93.17489347329298,
+        31805.715472226108
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Mouse',
+        '2012-09-14 00:00:00',
+        '2016-12-12 00:00:00',
+        9160.68931000456,
+        43.30673495185681,
+        9117.382575052703,
+        72939.06060042162,
+        8,
+        74.69271297362394,
+        73013.75331339525
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Gently Used Fresh Computer',
+        '2014-09-07 00:00:00',
+        '2016-03-05 00:00:00',
+        8473.908028806787,
+        20.87578509033522,
+        8453.032243716452,
+        16906.064487432905,
+        2,
+        25.810747546696874,
+        16931.8752349796
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Pants',
+        '2018-03-26 00:00:00',
+        '2020-06-23 00:00:00',
+        5696.040061395244,
+        7.4853081847084555,
+        5688.554753210536,
+        11377.109506421071,
+        2,
+        11.504790647356087,
+        11388.614297068427
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Wooden Chair',
+        '2010-09-21 00:00:00',
+        '2011-12-20 00:00:00',
+        2655.936520505055,
+        36.69567792326123,
+        2619.2408425817935,
+        18334.685898072556,
+        7,
+        12.527873883081247,
+        18347.213771955638
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Steel Car',
+        '2012-02-24 00:00:00',
+        '2014-08-22 00:00:00',
+        3844.3855303338732,
+        23.32060893319111,
+        3821.064921400682,
+        19105.32460700341,
+        5,
+        72.66739933028487,
+        19177.992006333698
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Gently Used Bacon',
+        '2011-06-10 00:00:00',
+        '2015-12-06 00:00:00',
+        4231.204736681254,
+        39.90024034305347,
+        4191.304496338201,
+        12573.913489014602,
+        3,
+        74.0442135153937,
+        12647.957702529995
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Practical Fish',
+        '2010-06-27 00:00:00',
+        '2014-06-26 00:00:00',
+        1757.6230273539172,
+        23.094341524595034,
+        1734.5286858293223,
+        1734.5286858293223,
+        1,
+        98.71184826018958,
+        1833.2405340895118
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Bike',
+        '2014-03-14 00:00:00',
+        '2015-06-12 00:00:00',
+        850.2707762460581,
+        9.904076162852482,
+        840.3667000832056,
+        6722.933600665645,
+        8,
+        24.268993872953114,
+        6747.202594538598
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Tasty Keyboard',
+        '2014-05-19 00:00:00',
+        '2015-08-17 00:00:00',
+        8452.61520254261,
+        13.129002496916797,
+        8439.486200045694,
+        25318.458600137084,
+        3,
+        82.88445595014292,
+        25401.343056087226
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Steel Fish',
+        '2015-02-13 00:00:00',
+        '2016-05-13 00:00:00',
+        6823.893541349859,
+        31.856880915234477,
+        6792.0366604346245,
+        27168.146641738498,
+        4,
+        16.21650864195224,
+        27184.36315038045
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Metal Shirt',
+        '2017-06-02 00:00:00',
+        '2021-08-30 00:00:00',
+        2243.338422640086,
+        39.034842638600026,
+        2204.303580001486,
+        4408.607160002972,
+        2,
+        86.65257084791325,
+        4495.259730850885
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Practical Granite Table',
+        '2013-04-19 00:00:00',
+        '2014-07-18 00:00:00',
+        3070.5442499065266,
+        36.53606318902361,
+        3034.008186717503,
+        6068.016373435006,
+        2,
+        34.09036872170361,
+        6102.1067421567095
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Plastic Chair',
+        '2019-12-08 00:00:00',
+        '2021-12-07 00:00:00',
+        3723.0118592433246,
+        42.60675703076449,
+        3680.40510221256,
+        25762.83571548792,
+        7,
+        35.613770129445754,
+        25798.449485617366
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Sausages',
+        '2011-09-11 00:00:00',
+        '2012-12-09 00:00:00',
+        7690.898851559253,
+        0.40197717690275137,
+        7690.49687438235,
+        23071.490623147052,
+        3,
+        84.25569835912727,
+        23155.74632150618
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Chair',
+        '2018-01-25 00:00:00',
+        '2020-04-24 00:00:00',
+        147.61085665596462,
+        16.16383804933373,
+        131.4470186066309,
+        525.7880744265236,
+        4,
+        25.69497921457947,
+        551.4830536411031
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Gently Used Metal Computer',
+        '2015-12-08 00:00:00',
+        '2018-06-05 00:00:00',
+        9604.574958127521,
+        39.087688237507,
+        9565.487269890014,
+        76523.89815912012,
+        8,
+        22.588865689200397,
+        76546.48702480932
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Shoes',
+        '2015-02-07 00:00:00',
+        '2016-08-05 00:00:00',
+        5038.0853450571185,
+        6.625959381419627,
+        5031.459385675699,
+        50314.59385675699,
+        10,
+        20.43634131391884,
+        50335.03019807091
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Ergonomic Sausages',
+        '2018-03-09 00:00:00',
+        '2020-03-08 00:00:00',
+        9671.97416275377,
+        6.205152936220842,
+        9665.769009817548,
+        38663.07603927019,
+        4,
+        39.876672349114756,
+        38702.952711619306
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Bike',
+        '2019-10-28 00:00:00',
+        '2023-01-25 00:00:00',
+        7035.59674893737,
+        34.085693034074914,
+        7001.511055903295,
+        49010.577391323066,
+        7,
+        56.81192780800675,
+        49067.38931913107
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Licensed Pizza',
+        '2012-06-15 00:00:00',
+        '2014-06-15 00:00:00',
+        3087.409338523461,
+        4.5229279908355675,
+        3082.8864105326256,
+        18497.318463195756,
+        6,
+        43.116189582744255,
+        18540.4346527785
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Bike',
+        '2018-09-15 00:00:00',
+        '2020-09-14 00:00:00',
+        3544.276522619977,
+        9.745908013792592,
+        3534.5306146061844,
+        31810.77553145566,
+        9,
+        96.70123280167941,
+        31907.47676425734
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Frozen Fish',
+        '2017-01-07 00:00:00',
+        '2020-01-07 00:00:00',
+        7700.04807007755,
+        2.0525316756389578,
+        7697.99553840191,
+        30791.98215360764,
+        4,
+        37.05492335898113,
+        30829.037076966622
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Ball',
+        '2013-02-20 00:00:00',
+        '2015-05-21 00:00:00',
+        229.83990605567826,
+        23.143713343114303,
+        206.69619271256394,
+        413.3923854251279,
+        2,
+        47.0911172461324,
+        460.4835026712603
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Refined Bacon',
+        '2013-01-18 00:00:00',
+        '2016-04-17 00:00:00',
+        9005.728216128806,
+        11.314260074002448,
+        8994.413956054803,
+        89944.13956054804,
+        10,
+        44.94829301722716,
+        89989.08785356526
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Concrete Shirt',
+        '2016-03-28 00:00:00',
+        '2017-09-24 00:00:00',
+        3655.7120882241293,
+        5.70203690121075,
+        3650.0100513229186,
+        29200.08041058335,
+        8,
+        88.95043704371142,
+        29289.03084762706
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Mouse',
+        '2017-11-03 00:00:00',
+        '2019-02-01 00:00:00',
+        9580.199815514658,
+        26.895250317331165,
+        9553.304565197326,
+        85979.74108677593,
+        9,
+        84.6777749871076,
+        86064.41886176304
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Used Table',
+        '2013-09-13 00:00:00',
+        '2015-03-12 00:00:00',
+        8104.142752353764,
+        34.626011256418835,
+        8069.516741097345,
+        16139.03348219469,
+        2,
+        91.34081417594822,
+        16230.374296370639
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Fantastic Table',
+        '2013-06-17 00:00:00',
+        '2015-06-17 00:00:00',
+        6714.5600563626,
+        18.295417396451413,
+        6696.264638966149,
+        66962.64638966149,
+        10,
+        44.986251280048904,
+        67007.63264094153
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Handmade Concrete Mouse',
+        '2013-01-01 00:00:00',
+        '2014-04-01 00:00:00',
+        3315.6553282422847,
+        15.293982714122528,
+        3300.361345528162,
+        23102.529418697133,
+        7,
+        55.25466998270317,
+        23157.784088679837
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Cheese',
+        '2019-02-02 00:00:00',
+        '2024-02-01 00:00:00',
+        1431.4056762197513,
+        36.6507965639733,
+        1394.754879655778,
+        5579.019518623112,
+        4,
+        98.95164247513931,
+        5677.971161098251
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Soft Fish',
+        '2014-01-11 00:00:00',
+        '2019-01-10 00:00:00',
+        9576.165033031997,
+        29.2088796205553,
+        9546.956153411442,
+        57281.736920468655,
+        6,
+        23.49604752695558,
+        57305.23296799561
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Rustic Cotton Chair',
+        '2015-03-24 00:00:00',
+        '2020-03-22 00:00:00',
+        1187.277041241223,
+        29.25428486609269,
+        1158.0227563751305,
+        11580.227563751305,
+        10,
+        28.60251946983442,
+        11608.830083221139
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Soft Bike',
+        '2016-04-28 00:00:00',
+        '2018-10-25 00:00:00',
+        8683.051211487802,
+        40.0900591806424,
+        8642.96115230716,
+        77786.65037076444,
+        9,
+        72.24399494853716,
+        77858.89436571299
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Bike',
+        '2014-02-17 00:00:00',
+        '2017-08-15 00:00:00',
+        8554.381907316636,
+        44.061216062186375,
+        8510.32069125445,
+        59572.24483878115,
+        7,
+        32.82926023226037,
+        59605.074099013415
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Wooden Ball',
+        '2013-06-19 00:00:00',
+        '2015-06-19 00:00:00',
+        9642.598996388915,
+        21.363257499941568,
+        9621.235738888974,
+        86591.12165000077,
+        9,
+        37.74056586073109,
+        86628.8622158615
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Licensed Table',
+        '2019-09-27 00:00:00',
+        '2023-09-26 00:00:00',
+        5797.631460269134,
+        20.625522433075172,
+        5777.005937836058,
+        5777.005937836058,
+        1,
+        12.214140691466554,
+        5789.2200785275245
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Pizza',
+        '2014-05-05 00:00:00',
+        '2018-05-04 00:00:00',
+        4544.638168331379,
+        36.35722606643929,
+        4508.28094226494,
+        18033.12376905976,
+        4,
+        65.12453062867183,
+        18098.248299688432
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Handcrafted Pants',
+        '2015-03-09 00:00:00',
+        '2018-09-04 00:00:00',
+        6837.215458225468,
+        48.20550811024922,
+        6789.009950115219,
+        67890.09950115219,
+        10,
+        56.16136188093121,
+        67946.26086303312
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Salad',
+        '2011-12-05 00:00:00',
+        '2013-06-02 00:00:00',
+        6660.030193439792,
+        18.032338330638513,
+        6641.9978551091535,
+        46493.98498576407,
+        7,
+        84.90784651332405,
+        46578.89283227739
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Rubber Mouse',
+        '2018-01-16 00:00:00',
+        '2022-07-14 00:00:00',
+        1995.0937722968386,
+        34.57986750928032,
+        1960.5139047875582,
+        13723.597333512907,
+        7,
+        65.7745980686853,
+        13789.371931581592
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Gorgeous Soft Ball',
+        '2016-10-08 00:00:00',
+        '2019-04-06 00:00:00',
+        163.81388346999086,
+        9.269800759242036,
+        154.54408271074882,
+        1545.4408271074883,
+        10,
+        48.8055728533535,
+        1594.2463999608417
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Fish',
+        '2012-01-07 00:00:00',
+        '2016-04-05 00:00:00',
+        3535.1745654647484,
+        17.613597727258785,
+        3517.5609677374896,
+        3517.5609677374896,
+        1,
+        55.49883585966267,
+        3573.059803597152
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Chips',
+        '2013-07-14 00:00:00',
+        '2017-07-13 00:00:00',
+        228.1920960352982,
+        20.24200975152673,
+        207.95008628377147,
+        1247.7005177026288,
+        6,
+        28.755737179570563,
+        1276.4562548821993
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Chair',
+        '2011-02-15 00:00:00',
+        '2013-02-14 00:00:00',
+        9966.058027284938,
+        10.41430518702554,
+        9955.643722097913,
+        29866.93116629374,
+        3,
+        78.77514609331921,
+        29945.706312387058
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'New Concrete Fish',
+        '2018-11-25 00:00:00',
+        '2022-11-24 00:00:00',
+        5768.698827961213,
+        6.491910006263657,
+        5762.20691795495,
+        34573.2415077297,
+        6,
+        12.149065681932283,
+        34585.39057341163
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Frozen Sausages',
+        '2017-07-05 00:00:00',
+        '2019-01-01 00:00:00',
+        3811.461769892637,
+        21.53924828927935,
+        3789.922521603358,
+        22739.535129620148,
+        6,
+        26.276567232586743,
+        22765.811696852736
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Tuna',
+        '2019-10-14 00:00:00',
+        '2023-04-11 00:00:00',
+        7542.711564187073,
+        5.12237787883631,
+        7537.589186308237,
+        75375.89186308238,
+        10,
+        25.29921757526735,
+        75401.19108065765
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Fantastic Car',
+        '2018-04-19 00:00:00',
+        '2021-04-18 00:00:00',
+        920.9822624291771,
+        34.599001297405295,
+        886.3832611317719,
+        7091.066089054175,
+        8,
+        48.30226465502364,
+        7139.368353709198
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Mouse',
+        '2018-06-26 00:00:00',
+        '2019-12-23 00:00:00',
+        6609.971507853121,
+        35.122503268901696,
+        6574.849004584219,
+        13149.698009168438,
+        2,
+        18.83422584745382,
+        13168.532235015891
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Handmade Frozen Chips',
+        '2017-02-12 00:00:00',
+        '2021-02-11 00:00:00',
+        8635.083461624303,
+        15.946726847487014,
+        8619.136734776816,
+        34476.54693910726,
+        4,
+        31.730514821793268,
+        34508.277453929055
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Sausages',
+        '2019-05-06 00:00:00',
+        '2020-08-03 00:00:00',
+        880.6834681750594,
+        9.712292889970103,
+        870.9711752850893,
+        4354.855876425447,
+        5,
+        47.83418464120394,
+        4402.690061066651
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Used Chair',
+        '2019-04-22 00:00:00',
+        '2023-07-20 00:00:00',
+        8918.397182147668,
+        44.95996436080491,
+        8873.437217786863,
+        53240.62330672117,
+        6,
+        91.70732971819794,
+        53332.33063643937
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'For repair Soft Computer',
+        '2012-09-15 00:00:00',
+        '2016-12-13 00:00:00',
+        6028.624258471119,
+        37.027482079648806,
+        5991.5967763914705,
+        29957.983881957352,
+        5,
+        74.49942558489029,
+        30032.483307542243
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Gorgeous Plastic Salad',
+        '2017-03-17 00:00:00',
+        '2021-03-16 00:00:00',
+        4918.337144623001,
+        34.43107664089437,
+        4883.906067982107,
+        39071.248543856855,
+        8,
+        38.5144319746608,
+        39109.762975831516
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Steel Shoes',
+        '2012-02-08 00:00:00',
+        '2013-05-08 00:00:00',
+        5474.614950091138,
+        1.7482204578566307,
+        5472.8667296332815,
+        27364.33364816641,
+        5,
+        65.71741868404271,
+        27430.05106685045
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Fantastic Rubber Computer',
+        '2015-02-20 00:00:00',
+        '2017-05-20 00:00:00',
+        1543.5917826749358,
+        7.430951861866042,
+        1536.1608308130697,
+        13825.447477317626,
+        9,
+        85.3084141318532,
+        13910.75589144948
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Sausages',
+        '2016-10-22 00:00:00',
+        '2018-10-22 00:00:00',
+        3996.2583459009074,
+        31.222549451591696,
+        3965.035796449316,
+        11895.107389347948,
+        3,
+        65.93682612629145,
+        11961.04421547424
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Plastic Soap',
+        '2012-07-16 00:00:00',
+        '2015-07-16 00:00:00',
+        2741.5590194558213,
+        7.39080200734239,
+        2734.168217448479,
+        21873.345739587832,
+        8,
+        65.55843741325148,
+        21938.904177001084
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Soft Bacon',
+        '2012-10-09 00:00:00',
+        '2016-04-06 00:00:00',
+        1290.038091021016,
+        11.112274598461125,
+        1278.9258164225548,
+        11510.332347802992,
+        9,
+        77.7665531279703,
+        11588.098900930963
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Granite Pants',
+        '2018-04-03 00:00:00',
+        '2019-09-30 00:00:00',
+        9108.80854110484,
+        39.06375129295052,
+        9069.74478981189,
+        54418.468738871336,
+        6,
+        18.52216160766752,
+        54436.990900479
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Hat',
+        '2019-03-09 00:00:00',
+        '2021-09-04 00:00:00',
+        8508.951296517,
+        47.84663660187185,
+        8461.104659915129,
+        59227.7326194059,
+        7,
+        13.34957090487693,
+        59241.08219031078
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Small Granite Ball',
+        '2011-03-01 00:00:00',
+        '2012-05-29 00:00:00',
+        6058.568109931743,
+        36.97678698514612,
+        6021.591322946597,
+        48172.730583572775,
+        8,
+        56.333021290541936,
+        48229.06360486332
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Ball',
+        '2017-08-22 00:00:00',
+        '2019-02-18 00:00:00',
+        1431.9578074119977,
+        11.21236643773994,
+        1420.7454409742577,
+        1420.7454409742577,
+        1,
+        25.936010267409685,
+        1446.6814512416674
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Tasty Cotton Chicken',
+        '2012-07-20 00:00:00',
+        '2015-10-18 00:00:00',
+        6303.649147625192,
+        45.04772594373031,
+        6258.601421681462,
+        18775.804265044386,
+        3,
+        71.71772650346591,
+        18847.521991547852
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Used Frozen Computer',
+        '2018-04-02 00:00:00',
+        '2019-09-29 00:00:00',
+        3247.1983044741824,
+        8.16062366745815,
+        3239.037680806724,
+        16195.188404033619,
+        5,
+        32.932558618907485,
+        16228.120962652527
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Concrete Shirt',
+        '2016-01-25 00:00:00',
+        '2020-01-24 00:00:00',
+        3991.235575291994,
+        31.759152186014283,
+        3959.4764231059794,
+        3959.4764231059794,
+        1,
+        33.74544587789853,
+        3993.221868983878
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Shoes',
+        '2018-08-16 00:00:00',
+        '2022-11-13 00:00:00',
+        3634.399229648575,
+        1.9680287155724119,
+        3632.4312009330024,
+        14529.72480373201,
+        4,
+        39.593747674259205,
+        14569.318551406268
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Licensed Car',
+        '2011-10-18 00:00:00',
+        '2014-10-17 00:00:00',
+        7286.642708124943,
+        10.376886459408919,
+        7276.2658216655345,
+        29105.063286662138,
+        4,
+        87.2857952385234,
+        29192.349081900662
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Concrete Mouse',
+        '2014-03-02 00:00:00',
+        '2016-08-28 00:00:00',
+        3884.4772262339225,
+        15.142526642710719,
+        3869.3346995912116,
+        3869.3346995912116,
+        1,
+        85.15924215166132,
+        3954.4939417428727
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Small Granite Shirt',
+        '2015-11-07 00:00:00',
+        '2020-05-04 00:00:00',
+        9333.433718384305,
+        36.84696627973643,
+        9296.58675210457,
+        92965.8675210457,
+        10,
+        64.33531163539723,
+        93030.2028326811
+    );
+INSERT INTO products (
+        name,
+        date,
+        date_final,
+        price,
+        discount,
+        price_liquid,
+        price_final,
+        quantity,
+        extended_warranty_price,
+        extended_warranty_price_final
+    )
+VALUES (
+        'Metal Ball',
+        '2014-12-04 00:00:00',
+        '2019-06-01 00:00:00',
+        5154.824098856553,
+        46.470149713918474,
+        5108.3539491426345,
+        40866.831593141076,
+        8,
+        77.5817342421798,
+        40944.413327383256
+    );
