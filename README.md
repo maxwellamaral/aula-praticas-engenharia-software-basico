@@ -9,7 +9,7 @@ O foco é manter a simplicidade, deixando de lado, quando cabível, assuntos mai
 
 Os vídeos e aulas são direcionadas ao público de desenvolvedores de software, partindo dos iniciantes de nível médio ao superior, mas podem ser utilizadas por qualquer pessoa que tenha interesse em aprender sobre o assunto.
 
-*Maxwell Anderson*
+Autor: *Maxwell Anderson Ielpo do Amaral*
 
 ## Conteúdo
 
