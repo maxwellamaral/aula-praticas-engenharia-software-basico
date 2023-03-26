@@ -1,5 +1,7 @@
 # Arquivos de dados para exercícios
 
+![Gato cientista de dados](../static/img/gpt/cat_data_scientist1.jpg)
+
 - [Arquivos de dados para exercícios](#arquivos-de-dados-para-exercícios)
   - [Arquivos de dados](#arquivos-de-dados)
   - [Arquivos de dados para o exemplo de chatbot utilizando o modelo GPT-3.5](#arquivos-de-dados-para-o-exemplo-de-chatbot-utilizando-o-modelo-gpt-35)
