@@ -316,6 +316,20 @@ class DataGenerator:
                     f"INSERT INTO products (name, date_purchase, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price}, {product.discount}, {product.price_liquid}, {product.price_final}, {product.quantity}, {product.extended_warranty_price}, {product.extended_warranty_price_final});\n"
                 )
 
+    def generate_markdown_table_datafile(self, products: list):
+        """
+        Gera dados aleatórios e salva em um arquivo Markdown
+        :param n: Número de dados a serem gerados
+        """
+
+        # Salva os dados em um arquivo Markdown
+        with open("data.md", "w") as file:
+            file.write("| Nome | Data de compra | Data de final da garantia | Preço | Desconto | Preço líquido | Preço final | Quantidade | Preço da garantia estendida | Preço final com garantia estendida |\n")
+            file.write("| ---- | -------------- | ------------------------- | ----- | -------- | ------------- | ----------- | ---------- | --------------------------- | --------------------------------- |\n")
+            for product in products:
+                file.write(
+                    f"| {product.name} | {product.date} | {product.date_final} | {product.price} | {product.discount} | {product.price_liquid} | {product.price_final} | {product.quantity} | {product.extended_warranty_price} | {product.extended_warranty_price_final} |\n"
+                )
 
 # Inicialização
 if __name__ == "__main__":
@@ -342,5 +356,8 @@ if __name__ == "__main__":
 
     # Gerador de dados aleatórios e salva em um arquivo de script do PostgreSQL
     data_generator.generate_postgresql_script_datafile(products)
+    
+    # Gerador de dados aleatórios e salva em um arquivo Markdown
+    data_generator.generate_markdown_table_datafile(products)
     
 
