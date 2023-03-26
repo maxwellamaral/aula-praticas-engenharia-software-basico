@@ -180,14 +180,11 @@ class DataGenerator:
             for i in range(n)
         ]
 
-    def generate_excel_datafile(self, n: int = 1):
+    def generate_excel_datafile(self, products: list):
         """
         Gera dados aleatórios e salva em um arquivo do Excel
         :param n: Número de dados a serem gerados
         """
-        # Gera dados aleatórios
-        products = self.generate(n)
-
         # Salva os dados em um arquivo do Excel
         import xlsxwriter
 
@@ -219,13 +216,11 @@ class DataGenerator:
 
         workbook.close()
 
-    def generate_xml_datafile(self, n: int = 1):
+    def generate_xml_datafile(self, products: list):
         """
         Gera dados aleatórios e salva em um arquivo XML
         :param n: Número de dados a serem gerados
         """
-        # Gera dados aleatórios
-        products = self.generate(n)
 
         # Salva os dados em um arquivo XML
         import xml.etree.ElementTree as ET
@@ -251,13 +246,11 @@ class DataGenerator:
         tree = ET.ElementTree(root)
         tree.write("data.xml")
 
-    def generate_csv_datafile(self, n: int = 1):
+    def generate_csv_datafile(self, products: list):
         """
         Gera dados aleatórios e salva em um arquivo CSV
         :param n: Número de dados a serem gerados
         """
-        # Gera dados aleatórios
-        products = self.generate(n)
 
         # Salva os dados em um arquivo CSV
         with open("data.csv", "w") as file:
@@ -269,13 +262,11 @@ class DataGenerator:
                     f"{product.name},{product.date},{product.date_final},{product.price},{product.discount},{product.price_liquid},{product.price_final},{product.quantity},{product.extended_warranty_price},{product.extended_warranty_price_final}\n"
                 )
 
-    def generate_json_datafile(self, n: int = 1):
+    def generate_json_datafile(self, products: list):
         """
         Gera dados aleatórios e salva em um arquivo JSON
         :param n: Número de dados a serem gerados
         """
-        # Gera dados aleatórios
-        products = self.generate(n)
 
         # Salva os dados em um arquivo JSON
         with open("data.json", "w") as file:
@@ -290,14 +281,11 @@ class DataGenerator:
                     file.write("\n")
             file.write("]")
 
-    def generate_postgresql_script_datafile(self, n: int = 1):
+    def generate_postgresql_script_datafile(self, products: list):
         """
         Gera dados aleatórios e salva em um arquivo de script do PostgreSQL
         :param n: Número de dados a serem gerados
         """
-        # Gera dados aleatórios
-        products = self.generate(n)
-
         # Cria script para criar a tabela, sobrescrevendo caso já exista
         with open("create.sql", "w") as file:
             # Insere comentário sobre o tipo de banco de dados
@@ -337,19 +325,22 @@ if __name__ == "__main__":
     # Gera dados aleatórios
     data_generator = DataGenerator()
 
+    # Gera os produtos
+    products = data_generator.generate(DATA_QTY)
+
     # Gerador de dados aleatórios e salva em um arquivo do Excel
-    data_generator.generate_excel_datafile(DATA_QTY)
+    data_generator.generate_excel_datafile(products)
 
     # Gerador de dados aleatórios e salva em um arquivo XML
-    data_generator.generate_xml_datafile(DATA_QTY)
+    data_generator.generate_xml_datafile(products)
 
     # Gerador de dados aleatórios e salva em um arquivo CSV
-    data_generator.generate_csv_datafile(DATA_QTY)
+    data_generator.generate_csv_datafile(products)
 
     # Gerador de dados aleatórios e salva em um arquivo JSON
-    data_generator.generate_json_datafile(DATA_QTY)
+    data_generator.generate_json_datafile(products)
 
     # Gerador de dados aleatórios e salva em um arquivo de script do PostgreSQL
-    data_generator.generate_postgresql_script_datafile(100)
+    data_generator.generate_postgresql_script_datafile(products)
     
 
