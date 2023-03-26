@@ -1,5 +1,10 @@
 # Arquivos de dados para exercícios
 
+- [Arquivos de dados para exercícios](#arquivos-de-dados-para-exercícios)
+  - [Arquivos de dados](#arquivos-de-dados)
+  - [Arquivos de dados para o exemplo de chatbot utilizando o modelo GPT-3.5](#arquivos-de-dados-para-o-exemplo-de-chatbot-utilizando-o-modelo-gpt-35)
+  - [Arquivos de dados para o exemplo de geração de dados falsos utilizando o pacote Python Faker](#arquivos-de-dados-para-o-exemplo-de-geração-de-dados-falsos-utilizando-o-pacote-python-faker)
+
 ## Arquivos de dados
 
 Os arquivos de dados são utilizados para exercícios e exemplos. Os arquivos de dados estão localizados na pasta `data` e são organizados em subpastas, conforme a tabela abaixo:
