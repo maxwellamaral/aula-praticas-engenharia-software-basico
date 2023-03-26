@@ -5,4 +5,12 @@
     "files.associations": {
         "*.yaml": "home-assistant"
     },
+    "editor.insertSpaces": false,
+    "editor.wrappingColumn": 0 ,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    },
+    "pandoc.htmlOptString": "-s -f gfm -t html5 --css=static/css/style.css"
 }
