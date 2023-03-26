@@ -1,7 +1,7 @@
 # Práticas em Engenharia de Software
 
 <figure style="text-align:center">
-    <img src="static/img/gpt/cat_studying.jpg" width="350" alt="Gato estudando. Prompt: Create an image of a cat studying software engineering">
+    <img src="static/img/gpt/cat_data_scientist1.jpg" width="650" alt="Gato estudando. Prompt: Create an image of a cat studying software engineering">
     <figcaption>Gato estudando Engenharia de Software</figcaption>
     <small>Fonte: gerado por IA com Bing por Maxwell Anderson (2023)</a></small>
 </figure>
