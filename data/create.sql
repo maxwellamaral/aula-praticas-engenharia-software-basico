@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS products;
 CREATE TABLE products (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
-    date DATE NOT NULL,
+    date_purchase DATE NOT NULL,
     date_final DATE NOT NULL,
     price NUMERIC(10, 2) NOT NULL,
     discount NUMERIC(10, 2) NOT NULL,
