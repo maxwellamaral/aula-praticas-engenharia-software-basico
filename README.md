@@ -14,3 +14,4 @@ Os vídeos e aulas são direcionadas ao público de desenvolvedores de software,
 ## Conteúdo
 
 * [Lições 📋📽️](lessons/README.md)
+* [Arquivos de dados 📁](data/README.md)
