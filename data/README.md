@@ -32,7 +32,7 @@ Os arquivos de dados para o exemplo de geração de dados falsos utilizando o pa
 
 | Arquivo | Link | Descricão |
 | ------- | --------- | --------- |
-| `gerarDados.py` | [gerarDados.py](python_faker/gerarDados.py) | Script Python para geração de dados falsos |
+| `gerarDados.py` | [gerarDados.py](python_faker/gerarDados.py) | Script Python para geração de dados falsos |[label](python_facker/gerarDados.py)
 | `requirements.txt` | [requirements.txt](python_faker/requirements.txt) | Arquivo de dependências do Python |
 | `data.csv` | [data.csv](python_faker/data.csv) | Arquivo CSV com os dados criados com o exemplo de geração de dados falsos |
 | `data.md` | [data.md](python_faker/data.md) | Arquivo Markdown com os dados criados com o exemplo de geração de dados falsos |
