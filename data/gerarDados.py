@@ -202,6 +202,8 @@ class DataGenerator:
         worksheet.write(0, 7, "Quantidade")
         worksheet.write(0, 8, "Preço da garantia estendida")
         worksheet.write(0, 9, "Preço final com garantia estendida")
+        worksheet.write(0, 10, "Quantidade de dias de garantia")
+        worksheet.write(0, 11, "Quantidade de dias de garantia estendida")
         for i, product in enumerate(products):
             worksheet.write(i + 1, 0, product.name)
             worksheet.write(i + 1, 1, product.date)
@@ -213,6 +215,8 @@ class DataGenerator:
             worksheet.write(i + 1, 7, product.quantity)
             worksheet.write(i + 1, 8, product.extended_warranty_price)
             worksheet.write(i + 1, 9, product.extended_warranty_price_final)
+            worksheet.write(i + 1, 10, product.warranty_days)
+            worksheet.write(i + 1, 11, product.extended_warranty_days)
 
         workbook.close()
 
@@ -242,6 +246,10 @@ class DataGenerator:
             ET.SubElement(
                 product_xml, "extended_warranty_price_final"
             ).text = str(product.extended_warranty_price_final)
+            ET.SubElement(product_xml, "warranty_days").text = str(product.warranty_days)
+            ET.SubElement(product_xml, "extended_warranty_days").text = str(
+                product.extended_warranty_days
+            )
 
         tree = ET.ElementTree(root)
         tree.write("data.xml")
@@ -255,11 +263,11 @@ class DataGenerator:
         # Salva os dados em um arquivo CSV
         with open("data.csv", "w") as file:
             file.write(
-                "Nome,Data de compra,Data de final da garantia,Preço,Desconto,Preço líquido,Preço final,Quantidade,Preço da garantia estendida,Preço final com garantia estendida\n"
+                "Nome,Data de compra,Data de final da garantia,Preço,Desconto,Preço líquido,Preço final,Quantidade,Preço da garantia estendida,Preço final com garantia estendida,Quantidade de dias de garantia,Quantidade de dias de garantia estendida\n"
             )
             for product in products:
                 file.write(
-                    f"{product.name},{product.date},{product.date_final},{product.price},{product.discount},{product.price_liquid},{product.price_final},{product.quantity},{product.extended_warranty_price},{product.extended_warranty_price_final}\n"
+                    f"{product.name},{product.date},{product.date_final},{product.price},{product.discount},{product.price_liquid},{product.price_final},{product.quantity},{product.extended_warranty_price},{product.extended_warranty_price_final},{product.warranty_days},{product.extended_warranty_days}\n"
                 )
 
     def generate_json_datafile(self, products: list):
@@ -273,7 +281,7 @@ class DataGenerator:
             file.write("[\n")
             for i, product in enumerate(products):
                 file.write(
-                    f'{{"Nome": "{product.name}", "Data de compra": "{product.date}", "Data de final da garantia": "{product.date_final}", "Preço": {product.price}, "Desconto": {product.discount}, "Preço líquido": {product.price_liquid}, "Preço final": {product.price_final}, "Quantidade": {product.quantity}, "Preço da garantia estendida": {product.extended_warranty_price}, "Preço final com garantia estendida": {product.extended_warranty_price_final}}}'
+                    f'{{"Nome": "{product.name}", "Data de compra": "{product.date}", "Data de final da garantia": "{product.date_final}", "Preço": {product.price}, "Desconto": {product.discount}, "Preço líquido": {product.price_liquid}, "Preço final": {product.price_final}, "Quantidade": {product.quantity}, "Preço da garantia estendida": {product.extended_warranty_price}, "Preço final com garantia estendida": {product.extended_warranty_price_final}, "Quantidade de dias de garantia": {product.warranty_days}, "Quantidade de dias de garantia estendida": {product.extended_warranty_days}}}'
                 )
                 if i < len(products) - 1:
                     file.write(",\n")
@@ -303,7 +311,9 @@ class DataGenerator:
             file.write("    price_final NUMERIC(10, 2) NOT NULL,\n")
             file.write("    quantity INTEGER NOT NULL,\n")
             file.write("    extended_warranty_price NUMERIC(10, 2) NOT NULL,\n")
-            file.write("    extended_warranty_price_final NUMERIC(10, 2) NOT NULL\n")
+            file.write("    extended_warranty_price_final NUMERIC(10, 2) NOT NULL,\n")
+            file.write("    warranty_days NUMERIC(10,0) NOT NULL,\n")
+            file.write("    extended_warranty_days NUMERIC(10,0) NOT NULL\n")
             file.write(");\n")
 
         # Salva os dados em um arquivo de script do PostgreSQL
@@ -313,7 +323,7 @@ class DataGenerator:
             # Insere comando para inserir os dados
             for product in products:
                 file.write(
-                    f"INSERT INTO products (name, date_purchase, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price}, {product.discount}, {product.price_liquid}, {product.price_final}, {product.quantity}, {product.extended_warranty_price}, {product.extended_warranty_price_final});\n"
+                    f"INSERT INTO products (name, date_purchase, date_final, price, discount, price_liquid, price_final, quantity, extended_warranty_price, extended_warranty_price_final) VALUES ('{product.name}', '{product.date}', '{product.date_final}', {product.price}, {product.discount}, {product.price_liquid}, {product.price_final}, {product.quantity}, {product.extended_warranty_price}, {product.extended_warranty_price_final}, {product.warranty_days}, {product.extended_warranty_days});\n"
                 )
 
     def generate_markdown_table_datafile(self, products: list):
@@ -324,11 +334,11 @@ class DataGenerator:
 
         # Salva os dados em um arquivo Markdown
         with open("data.md", "w") as file:
-            file.write("| Nome | Data de compra | Data de final da garantia | Preço | Desconto | Preço líquido | Preço final | Quantidade | Preço da garantia estendida | Preço final com garantia estendida |\n")
-            file.write("| ---- | -------------- | ------------------------- | ----- | -------- | ------------- | ----------- | ---------- | --------------------------- | --------------------------------- |\n")
+            file.write("| Nome | Data de compra | Data de final da garantia | Preço | Desconto | Preço líquido | Preço final | Quantidade | Preço da garantia estendida | Preço final com garantia estendida | Quantidade de dias de garantia | Quantidade de dias de garantia estendida |\n")
+            file.write("| ---- | -------------- | ------------------------- | ----- | -------- | ------------- | ----------- | ---------- | --------------------------- | --------------------------------- | --------------------------------- | --------------------------------- |\n")
             for product in products:
                 file.write(
-                    f"| {product.name} | {product.date} | {product.date_final} | {product.price} | {product.discount} | {product.price_liquid} | {product.price_final} | {product.quantity} | {product.extended_warranty_price} | {product.extended_warranty_price_final} |\n"
+                    f"| {product.name} | {product.date} | {product.date_final} | {product.price} | {product.discount} | {product.price_liquid} | {product.price_final} | {product.quantity} | {product.extended_warranty_price} | {product.extended_warranty_price_final} | {product.warranty_days} | {product.extended_warranty_days}\n"
                 )
 
 # Inicialização

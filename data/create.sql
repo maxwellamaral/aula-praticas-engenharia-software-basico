@@ -11,5 +11,7 @@ CREATE TABLE products (
     price_final NUMERIC(10, 2) NOT NULL,
     quantity INTEGER NOT NULL,
     extended_warranty_price NUMERIC(10, 2) NOT NULL,
-    extended_warranty_price_final NUMERIC(10, 2) NOT NULL
+    extended_warranty_price_final NUMERIC(10, 2) NOT NULL,
+    warranty_days NUMERIC(10, 0) NOT NULL,
+    extended_warranty_days NUMERIC(10, 0) NOT NULL
 );
